@@ -1,0 +1,2724 @@
+Beschreibung
+- Hand AKZ; Auto Bezugsmessung; Vorgabe Maximale Abweichung (ignorieren!!)
+
+# -------------
+# - BE 
+# -- ALDA
+# -------------
+# NiederschlagNSchl.
+- BEAB1____-3H04 ; ; 200
+# Stauhoehe 
+- BESK1____-3H03 ; 26 ; 10
+# Lufttemp. Max 
+- BEAB1____-3H02 ; 751 ; 20 
+# Lufttemp. Min 
+- BEAB1____-3H01 ; 751 ; 20 
+# WasserT 
+- BESK1____-3H01 ; ; 20 
+# WasserT 2m 
+- BESK1____-3H02 ; ; 20 
+# Gewitter
+- BE_______-3H02 ; ; 
+# Schneedecke 
+- BESK1____-3H04 ; ; 20 
+# Neuschnee 
+- BESK1____-3H05 ; ; 20 
+# ----------------
+# -- SICKERWASSER
+# ----------------
+# S1 HAND 
+- BEAB1ST__-3H01 ; BEAB1ST__-3F01 ; 0.2
+# S2 HAND 
+- BEAB1ST__-3H04 ; BEAB1ST__-3F04 ; 0.2 
+# S2A HAND 
+- BEAB1ST__-3H02 ; BEAB1ST__-3F02 ; 0.2 
+# S2B HAND 
+- BEAB1ST__-3H03 ; BEAB1ST__-3F03 ; 0.2 
+# S3 HAND 
+- BEAB1ST__-3H05 ; BEAB1ST__-3F05 ; 0.2
+# S4 HAND 
+- BEAB1ST__-3H06 ; BEAB1ST__-3F06 ; 0.2 
+# BE - SOHLBOHRUNG
+# SB1 
+- BEAB1DS__-3H01 ; ; 100 
+# SB2 
+- BEAB1DS__-3H02 ; ; 100 
+# SB3 
+- BEAB1DS__-3H03 ; ; 100 
+# SB4
+- BEAB1DS__-3H04 ; ; 100 
+# BE - MQA
+# MQA1 
+- BEAB1DS__-3H05 ; ; 100
+# MQA3 
+- BEAB1DS__-3H07 ; ; 100
+# MQA4 
+- BEAB1DS__-3H08 ; ; 100
+# MQA5 
+- BEAB1DS__-3H09 ; ; 100
+# MQA7
+- BEAB1DS__-3H11 ; ; 100
+# BE - MQB
+# MQB1
+- BEAB1DS__-3H12; ; 0.2
+# MQB2
+- BEAB1DS__-3H13; ; 0.2
+# MQB4 
+- BEAB1DS__-3H15; ; 0.2
+# MQB5 
+- BEAB1DS__-3H16; ; 0.2
+# MQB6
+- BEAB1DS__-3H17; ; 0.2
+# MQB7 
+- BEAB1DS__-3H18; ; 0.2
+# BE - MQC
+# MQC1 
+- BEAB1DS__-3H19; ; 0.2
+# MQC2 
+- BEAB1DS__-3H20; ; 0.2
+# MQC4 
+- BEAB1DS__-3H22; ; 0.2
+# MQC5 
+- BEAB1DS__-3H23; ; 0.2
+# MQC6 
+- BEAB1DS__-3H24; ; 0.2
+# MQC7
+- BEAB1DS__-3H25; ; 0.2
+# BE - MQDEF
+# MQD1 
+- BEAB1DS__-3H26; ; 0.2 
+# MQD2 
+- BEAB1DS__-3H27; ; 0.2 
+# MQE1 
+- BEAB1DS__-3H28; ; 0.2 
+# MQE2 
+- BEAB1DS__-3H29; ; 0.2 
+# MQF1 
+- BEAB1DS__-3H30; ; 0.2 
+# MQF2 
+- BEAB1DS__-3H31; ; 0.2 
+# BE - SWD_I
+# SWD1W 
+- BEAB1DS__-3H32; BEAB1DS__-3P01 ; 0.2 
+# SWD1.1W 
+- BEAB1DS__-3H33; BEAB1DS__-3P02 ; 0.2 
+# SWD1.1L 
+- BEAB1DS__-3H35; BEAB1DS__-3P04 ; 0.2 
+# SWD1.2L 
+- BEAB1DS__-3H36; BEAB1DS__-3P05 ; 0.2 
+# SWD1.3L 
+- BEAB1DS__-3H37; BEAB1DS__-3P06 ; 0.2 
+# SWD1.4L 
+- BEAB1DS__-3H38; BEAB1DS__-3P07 ; 0.2 
+# SWD1.5L 
+- BEAB1DS__-3H39; BEAB1DS__-3P08 ; 0.2 
+# BE - SWD_II
+# SWD1L 
+- BEAB1DS__-3H34; BEAB1DS__-3P03 ; 0.2 
+# SWD1.6L 
+- BEAB1DS__-3H40; BEAB1DS__-3P09 ; 0.2 
+# SWD1.7L 
+- BEAB1DS__-3H41; BEAB1DS__-3P10 ; 0.2 
+# SWD1.8L 
+- BEAB1DS__-3H42; BEAB1DS__-3P11 ; 0.2 
+# SWD1.9L 
+- BEAB1DS__-3H43; BEAB1DS__-3P12 ; 0.2 
+# SWD1.10L
+- BEAB1DS__-3H44; BEAB1DS__-3P13 ; 0.2 
+# SWD1.11L
+- BEAB1DS__-3H45; BEAB1DS__-3P14 ; 0.2 
+# SWD1.12L
+- BEAB1DS__-3H46; BEAB1DS__-3P15 ; 0.2 
+# SWD1.13L
+- BEAB1DS__-3H47; BEAB1DS__-3P16 ; 0.2 
+# SWD2A 
+- BEAB1DS__-3H48; BEAB1DS__-3P17 ; 0.2 
+# SWD3A 
+- BEAB1DS__-3H49; BEAB1DS__-3P18 ; 0.2 
+# BE - GRUNDWASSER
+# GW1 
+- BEAB1____-3H05; BEAB1____-3L01 ; 0.2 
+# GW2 
+- BEAB1____-3H06; BEAB1____-3L02 ; 0.2 
+# GW3 
+- BEAB1____-3H07; BEAB1____-3L03 ; 0.2 
+# GW4 
+- BEAB1____-3H08; BEAB1____-3L04 ; 0.2 
+# GW5
+- BEAB1____-3H09; BEAB1____-3L05 ; 0.2
+# Sickerwassermessstelle1 Hand
+- BEAB1ST__-3H01; ; 100
+# Sickerwassermessstelle2A Hand
+- BEAB1ST__-3H02; ; 100
+# Sickerwassermessstelle2B Hand
+- BEAB1ST__-3H03; ; 100
+# Sickerwassermessstelle2 Hand
+- BEAB1ST__-3H04; ; 100
+# Sickerwassermessstelle3 Hand
+- BEAB1ST__-3H05; ; 100
+# Sickerwassermessstelle4 Hand
+- BEAB1ST__-3H06; ; 100
+# Sickerwassermessstelle 1L
+- BEAB1ST__-3H07; ; 100
+# Sickerwassermessstelle 1R
+- BEAB1ST__-3H08; ; 100
+# Sickerwassermessstelle 2L
+- BEAB1ST__-3H09; ; 100
+# Sickerwassermessstelle 2R
+- BEAB1ST__-3H10; ; 100
+# Sickerwassermessstelle 3R
+- BEAB1ST__-3H11; ; 100
+# Sickerwassermessstelle 55L
+- BEAB1ST__-3H110; ; 100
+# Sickerwassermessstelle 55R
+- BEAB1ST__-3H111; ; 100
+# Sickerwassermessstelle 4L
+- BEAB1ST__-3H12; ; 100
+# Sickerwassermessstelle 4R
+- BEAB1ST__-3H13; ; 100
+# Sickerwassermessstelle 5L
+- BEAB1ST__-3H14; ; 100
+# Sickerwassermessstelle 5R
+- BEAB1ST__-3H15; ; 100
+# Sickerwassermessstelle 6L
+- BEAB1ST__-3H16; ; 100
+# Sickerwassermessstelle 6R
+- BEAB1ST__-3H17; ; 100
+# Sickerwassermessstelle 7L
+- BEAB1ST__-3H18; ; 100
+# Sickerwassermessstelle 7R
+- BEAB1ST__-3H19; ; 100
+# Sickerwassermessstelle 8L
+- BEAB1ST__-3H20; ; 100
+# Sickerwassermessstelle 8R
+- BEAB1ST__-3H21; ; 100
+# Sickerwassermessstelle 9L
+- BEAB1ST__-3H22; ; 100
+# Sickerwassermessstelle 9R
+- BEAB1ST__-3H23; ; 100
+# Sickerwassermessstelle 10L
+- BEAB1ST__-3H24; ; 100
+# Sickerwassermessstelle 10R
+- BEAB1ST__-3H25; ; 100
+# Sickerwassermessstelle 11L
+- BEAB1ST__-3H26; ; 100
+# Sickerwassermessstelle 11R
+- BEAB1ST__-3H27; ; 100
+# Sickerwassermessstelle 12L
+- BEAB1ST__-3H28; ; 100
+# Sickerwassermessstelle 12R
+- BEAB1ST__-3H29; ; 100
+# Sickerwassermessstelle 13L
+- BEAB1ST__-3H30; ; 100
+# Sickerwassermessstelle 13R
+- BEAB1ST__-3H31; ; 100
+# Sickerwassermessstelle 14L
+- BEAB1ST__-3H32; ; 100
+# Sickerwassermessstelle 14R
+- BEAB1ST__-3H33; ; 100
+# Sickerwassermessstelle 15L
+- BEAB1ST__-3H34; ; 100
+# Sickerwassermessstelle 15R
+- BEAB1ST__-3H35; ; 100
+# Sickerwassermessstelle 16L
+- BEAB1ST__-3H36; ; 100
+# Sickerwassermessstelle 16R
+- BEAB1ST__-3H37; ; 100
+# Sickerwassermessstelle 17L
+- BEAB1ST__-3H38; ; 100
+# Sickerwassermessstelle 17R
+- BEAB1ST__-3H39; ; 100
+# Sickerwassermessstelle 18L
+- BEAB1ST__-3H40; ; 100
+# Sickerwassermessstelle 18R
+- BEAB1ST__-3H41; ; 100
+# Sickerwassermessstelle 19L
+- BEAB1ST__-3H42; ; 100
+# Sickerwassermessstelle 19R
+- BEAB1ST__-3H43; ; 100
+# Sickerwassermessstelle 20L
+- BEAB1ST__-3H44; ; 100
+# Sickerwassermessstelle 20R
+- BEAB1ST__-3H45; ; 100
+# Sickerwassermessstelle 21L
+- BEAB1ST__-3H46; ; 100
+# Sickerwassermessstelle 21R
+- BEAB1ST__-3H47; ; 100
+# Sickerwassermessstelle 22L
+- BEAB1ST__-3H48; ; 100
+# Sickerwassermessstelle 22R
+- BEAB1ST__-3H49; ; 100
+# Sickerwassermessstelle 23L
+- BEAB1ST__-3H50; ; 100
+# Sickerwassermessstelle 23R
+- BEAB1ST__-3H51; ; 100
+# Sickerwassermessstelle 24L
+- BEAB1ST__-3H52; ; 100
+# Sickerwassermessstelle 24R
+- BEAB1ST__-3H53; ; 100
+# Sickerwassermessstelle 25L
+- BEAB1ST__-3H54; ; 100
+# Sickerwassermessstelle 25R
+- BEAB1ST__-3H55; ; 100
+# Sickerwassermessstelle 26L
+- BEAB1ST__-3H56; ; 100
+# Sickerwassermessstelle 26R
+- BEAB1ST__-3H57; ; 100
+# Sickerwassermessstelle 27L
+- BEAB1ST__-3H58; ; 100
+# Sickerwassermessstelle 27R
+- BEAB1ST__-3H59; ; 100
+# Sickerwassermessstelle 28L
+- BEAB1ST__-3H60; ; 100
+# Sickerwassermessstelle 28R
+- BEAB1ST__-3H61; ; 100
+# Sickerwassermessstelle 29L
+- BEAB1ST__-3H62; ; 100
+# Sickerwassermessstelle 29R
+- BEAB1ST__-3H63; ; 100
+# Sickerwassermessstelle 30L
+- BEAB1ST__-3H64; ; 100
+# Sickerwassermessstelle 30R
+- BEAB1ST__-3H65; ; 100
+# Sickerwassermessstelle 31L
+- BEAB1ST__-3H66; ; 100
+# Sickerwassermessstelle 32L
+- BEAB1ST__-3H68; ; 100
+# Sickerwassermessstelle 32R
+- BEAB1ST__-3H69; ; 100
+# Sickerwassermessstelle 33L
+- BEAB1ST__-3H70; ; 100
+# Sickerwassermessstelle 33R
+- BEAB1ST__-3H71; ; 100
+# Sickerwassermessstelle 34R
+- BEAB1ST__-3H72; ; 100
+# Sickerwassermessstelle 35R
+- BEAB1ST__-3H73; ; 100
+# Sickerwassermessstelle 36L
+- BEAB1ST__-3H74; ; 100
+# Sickerwassermessstelle 36R
+- BEAB1ST__-3H75; ; 100
+# Sickerwassermessstelle 37L
+- BEAB1ST__-3H76; ; 100
+# Sickerwassermessstelle 38L
+- BEAB1ST__-3H77; ; 100
+# Sickerwassermessstelle 38R
+- BEAB1ST__-3H78; ; 100
+# Sickerwassermessstelle 39L
+- BEAB1ST__-3H79; ; 100
+# Sickerwassermessstelle 40L
+- BEAB1ST__-3H80; ; 100
+# Sickerwassermessstelle 40R
+- BEAB1ST__-3H81; ; 100
+# Sickerwassermessstelle 41L
+- BEAB1ST__-3H82; ; 100
+# Sickerwassermessstelle 41R
+- BEAB1ST__-3H83; ; 100
+# Sickerwassermessstelle 42L
+- BEAB1ST__-3H84; ; 100
+# Sickerwassermessstelle 42R
+- BEAB1ST__-3H85; ; 100
+# Sickerwassermessstelle 43L
+- BEAB1ST__-3H86; ; 100
+# Sickerwassermessstelle 43R
+- BEAB1ST__-3H87; ; 100
+# Sickerwassermessstelle 44L
+- BEAB1ST__-3H88; ; 100
+# Sickerwassermessstelle 44R
+- BEAB1ST__-3H89; ; 100
+# Sickerwassermessstelle 45L
+- BEAB1ST__-3H90; ; 100
+# Sickerwassermessstelle 45R
+- BEAB1ST__-3H91; ; 100
+# Sickerwassermessstelle 46L
+- BEAB1ST__-3H92; ; 100
+# Sickerwassermessstelle 46R
+- BEAB1ST__-3H93; ; 100
+# Sickerwassermessstelle 47L
+- BEAB1ST__-3H94; ; 100
+# Sickerwassermessstelle 47R
+- BEAB1ST__-3H95; ; 100
+# Sickerwassermessstelle 48L
+- BEAB1ST__-3H96; ; 100
+# Sickerwassermessstelle 48R
+- BEAB1ST__-3H97; ; 100
+# Sickerwassermessstelle 49L
+- BEAB1ST__-3H98; ; 100
+# Sickerwassermessstelle 49R
+- BEAB1ST__-3H99; ; 100
+# Sickerwassermessstelle 50L
+- BEAB1ST__-3H100; ; 100
+# Sickerwassermessstelle 50R
+- BEAB1ST__-3H101; ; 100
+# Sickerwassermessstelle 51L
+- BEAB1ST__-3H102; ; 100
+# Sickerwassermessstelle 51R
+- BEAB1ST__-3H103; ; 100
+# Sickerwassermessstelle 52L
+- BEAB1ST__-3H104; ; 100
+# Sickerwassermessstelle 52R
+- BEAB1ST__-3H105; ; 100
+# Sickerwassermessstelle 53L
+- BEAB1ST__-3H106; ; 100
+# Sickerwassermessstelle 53R
+- BEAB1ST__-3H107; ; 100
+# Sickerwassermessstelle 54L
+- BEAB1ST__-3H108; ; 100
+# Sickerwassermessstelle 54R
+- BEAB1ST__-3H109; ; 100
+#
+# --------
+# - KT 
+# -- ALDA
+# --------
+# StauhoeheHand
+- KTSK1____-3H01 ; 1001 ; 10
+# Luft Temp mittel
+- KTSK1____-3T01 ; ;
+# Luft Temp Max
+- KTSK1____-3T02 ; ;
+# Luft Temp Min
+- KTSK1____-3T03 ; ;
+# Wasser Temp 2m
+- KTSK1____-3H02 ; ;
+# Luftdruck
+- KTAB1____-3P01 ; ;
+# Niederschlag
+- KTAB1____-3H13 ; ;
+# Wasserstand Verdunstungsbecken
+- KTAB1____-3H15 ; ; 
+# Windrichtung
+- KTAB1____-3H14 ; ;
+# ------
+# - LOTANLAGE
+# ------
+#PL1-X Hand Ablesung links 1.Messung
+- KTAB1____-3D05 ; 2437 ; 10
+#PL1-X Hand Ablesung rechts 1.Messung
+- KTAB1____-3D06 ; ; 10
+#PL1-X Hand Ablesung links 2.Messung
+- KTAB1____-3D07 ; ; 10
+#PL1-X Hand Ablesung rechts 2.Messung
+- KTAB1____-3D08 ; ; 10
+#PL1-Y Hand Ablesung links 1.Messung
+- KTAB1____-3D09 ; ; 10
+#PL1-Y Hand Ablesung rechts 1.Messung
+- KTAB1____-3D10 ; ; 10
+#PL1-Y Hand Ablesung links 2.Messung
+- KTAB1____-3D11 ; ; 10
+#PL1-Y Hand Ablesung rechts 2.Messung
+- KTAB1____-3D12 ; ; 10
+#PL2-X Hand Ablesung links 1.Messung
+- KTAB1____-3D13 ; 2438 ; 10
+#PL2-X Hand Ablesung rechts 1.Messung
+- KTAB1____-3D14 ; ; 10
+#PL2-X Hand Ablesung links 2.Messung
+- KTAB1____-3D15 ; ; 10
+#PL2-X Hand Ablesung rechts 2.Messung
+- KTAB1____-3D16 ; ; 10
+#PL2-Y Hand Ablesung links 1.Messung
+- KTAB1____-3D17 ; ; 10
+#PL2-Y Hand Ablesung rechts 1.Messung
+- KTAB1____-3D18 ; ; 10
+#PL2-Y Hand Ablesung links 2.Messung
+- KTAB1____-3D19 ; ; 10
+#PL2-Y Hand Ablesung rechts 2.Messung
+- KTAB1____-3D20 ; ; 10
+#SL1-X Hand Ablesung links 1.Messung
+- KTAB1____-3D21 ; 2439 ; 10
+#SL1-X Hand Ablesung rechts 1.Messung
+- KTAB1____-3D22 ; ; 10
+#SL1-X Hand Ablesung links 2.Messung
+- KTAB1____-3D23 ; ; 10
+#SL1-X Hand Ablesung rechts 2.Messung
+- KTAB1____-3D24 ; ; 10
+#SL1-Y Hand Ablesung links 1.Messung
+- KTAB1____-3D25 ; ; 10
+#SL1-Y Hand Ablesung rechts 1.Messung
+- KTAB1____-3D26 ; ; 10
+#SL1-Y Hand Ablesung links 2.Messung
+- KTAB1____-3D27 ; ; 10
+#SL1-Y Hand Ablesung rechts 2.Messung
+- KTAB1____-3D28 ; ; 10
+#SL2-X Hand Ablesung links 1.Messung
+- KTAB1____-3D29 ; 2440 ; 10
+#SL2-X Hand Ablesung rechts 1.Messung
+- KTAB1____-3D30 ; ; 10
+#SL2-X Hand Ablesung links 2.Messung
+- KTAB1____-3D31 ; ; 10
+#SL2-X Hand Ablesung rechts 2.Messung
+- KTAB1____-3D32 ; ; 10
+#SL2-Y Hand Ablesung links 1.Messung
+- KTAB1____-3D33 ; ; 10
+#SL2-Y Hand Ablesung rechts 1.Messung
+- KTAB1____-3D34 ; ; 10
+#SL2-Y Hand Ablesung links 2.Messung
+- KTAB1____-3D35 ; ; 10
+#SL2-Y Hand Ablesung rechts 2.Messung
+- KTAB1____-3D36 ; ; 10
+# ------
+# - GW -
+# ------
+# GW1 Grundwasser Handwert
+- KTAB1____-3H11 ; ; 10
+# GW2 Grundwasser Handwert
+- KTAB1____-3H12 ; ; 10
+# ---------
+# - SK SF -
+# ---------
+#SK1.1 Kronenbohrung
+- KTAB1____-3H01 ; ; 10
+#SK1.2 Kronenbohrung
+- KTAB1____-3H02 ; ; 10
+#SK2.1 Kronenbohrung
+- KTAB1____-3H03 ; ; 10
+#SK2.2 Kronenbohrung
+- KTAB1____-3H04 ; ; 10
+#SK3.1 Kronenbohrung
+- KTAB1____-3H05 ; ; 10
+#SK3.2 Kronenbohrung
+- KTAB1____-3H06 ; ; 10
+#SF1.1 Fußbohrung
+- KTAB1____-3H07 ; ; 10
+#SF2.1 Fußbohrung
+- KTAB1____-3H08 ; ; 10
+#SF2.2 Fußbohrung
+- KTAB1____-3H09 ; ; 10
+#SF3.1 Fußbohrung
+- KTAB1____-3H10 ; ; 10
+# ------
+# - SD
+# ------
+#SD1a Sohlenwasserdruck
+- KTAB1DS__-3H01 ; 2465 ; 10
+#SD1b Sohlenwasserdruck
+- KTAB1DS__-3H02 ; 2466 ; 10
+#SD1c Sohlenwasserdruck
+- KTAB1DS__-3H03 ; 2467 ; 10
+#SD2a Sohlenwasserdruck
+- KTAB1DS__-3H04 ; 2468 ; 10
+#SD2b Sohlenwasserdruck
+- KTAB1DS__-3H05 ; 2469 ; 10
+#SD2c Sohlenwasserdruck
+- KTAB1DS__-3H06 ; 2470 ; 10
+#SD2d Sohlenwasserdruck
+- KTAB1DS__-3H07 ; 2471 ; 10
+#SD2e Sohlenwasserdruck
+- KTAB1DS__-3H08 ; 2472 ; 10
+#SD3a Sohlenwasserdruck
+- KTAB1DS__-3H09 ; 2473 ; 10
+#SD3b Sohlenwasserdruck
+- KTAB1DS__-3H10 ; 2474 ; 10
+#SD3c Sohlenwasserdruck
+- KTAB1DS__-3H11 ; 2475 ; 10
+#SD3d Sohlenwasserdruck
+- KTAB1DS__-3H12 ; 2476 ; 10
+#SD4a Sohlenwasserdruck
+- KTAB1DS__-3H13 ; 2477 ; 10
+#SD4b Sohlenwasserdruck
+- KTAB1DS__-3H14 ; 2478 ; 10
+#SD4c Sohlenwasserdruck
+- KTAB1DS__-3H15 ; 2479 ; 10
+#SD4d Sohlenwasserdruck
+- KTAB1DS__-3H16 ; 2480 ; 10
+#SD5a Sohlenwasserdruck
+- KTAB1DS__-3H17 ; 2481 ; 10
+#SD5b Sohlenwasserdruck
+- KTAB1DS__-3H18 ; 2482 ; 10
+#SD5c Sohlenwasserdruck
+- KTAB1DS__-3H19 ; 2483 ; 10
+#SD5d Sohlenwasserdruck
+- KTAB1DS__-3H20 ; 2484 ; 10
+#SD5e Sohlenwasserdruck
+- KTAB1DS__-3H21 ; 2485 ; 10
+#SD6a Sohlenwasserdruck
+- KTAB1DS__-3H22 ; 2486 ; 10
+#SD6b Sohlenwasserdruck
+- KTAB1DS__-3H23 ; 2487 ; 10
+#SD6c Sohlenwasserdruck
+- KTAB1DS__-3H24 ; 2488 ; 10
+#SD6d Sohlenwasserdruck
+- KTAB1DS__-3H25 ; 2489 ; 10
+# -------
+# - MU MK Messuhr / Messmonitor Kontrollgang
+#MU 1 Messuhr Kontrollgang
+- KTAB1KO__-3RM01 ; ; 10
+#MU 2 Messuhr Kontrollgang
+- KTAB1KO__-3RM02 ; ; 10
+#MK 1 HP Aussen Messmonitor Kontrollgang
+- KTAB1KO__-3RM03 ; ; 10
+#MK 1 HP Innen Messmonitor Kontrollgang
+- KTAB1KO__-3RM04 ; ; 10
+#MK 1 HS Aussen Messmonitor Kontrollgang
+- KTAB1KO__-3RM05 ; ; 10
+#MK 1 HS Innen Messmonitor Kontrollgang
+- KTAB1KO__-3RM06 ; ; 10
+#MK 1 V 1.Tiefe Messmonitor Kontrollgang
+- KTAB1KO__-3RM07 ; ; 10
+#MK 1 V 2.Tiefe Messmonitor Kontrollgang
+- KTAB1KO__-3RM08 ; ; 10
+#MK 2 HP Aussen Messmonitor Kontrollgang
+- KTAB1KO__-3RM09 ; ; 10
+#MK 2 HP Innen Messmonitor Kontrollgang
+- KTAB1KO__-3RM10 ; ; 10
+#MK 2 HS Aussen Messmonitor Kontrollgang
+- KTAB1KO__-3RM11 ; ; 10
+#MK 2 HS Innen Messmonitor Kontrollgang
+- KTAB1KO__-3RM12 ; ; 10
+#MK 2 V 1.Tiefe Messmonitor Kontrollgang
+- KTAB1KO__-3RM13 ; ; 10
+#MK 2 V 2.Tiefe Messmonitor Kontrollgang
+- KTAB1KO__-3RM14 ; ; 10
+# ------
+# - MV MB Mauerverstaerkung / Mauerbruchstein
+# ------
+#MV 1 HP Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM15 ; ; 10
+#MV 1 HP Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM16 ; ; 10
+#MV 1 HS Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM17 ; ; 10
+#MV 1 HS Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM18 ; ; 10
+#MV 1 V 1.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM19 ; ; 10
+#MV 1 V 2.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM20 ; ; 10
+#MV 2 HP Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM21 ; ; 10
+#MV 2 HP Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM22 ; ; 10
+#MV 2 HS Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM23 ; ; 10
+#MV 2 HS Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM24 ; ; 10
+#MV 2 V 1.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM25 ; ; 10
+#MV 2 V 2.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM26 ; ; 10
+#MV 3 HP Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM27 ; ; 10
+#MV 3 HP Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM28 ; ; 10
+#MV 3 HS Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM29 ; ; 10
+#MV 3 HS Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM30 ; ; 10
+#MV 3 V 1.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM31 ; ; 10
+#MV 3 V 2.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM32 ; ; 10
+#MV 4 HP Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM33 ; ; 10
+#MV 4 HP Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM34 ; ; 10
+#MV 4 HS Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM35 ; ; 10
+#MV 4 HS Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM36 ; ; 10
+#MV 4 V 1.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM37 ; ; 10
+#MV 4 V 2.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM38 ; ; 10
+#MV 5 HP Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM39 ; ; 10
+#MV 5 HP Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM40 ; ; 10
+#MV 5 HS Aussen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM41 ; ; 10
+#MV 5 HS Innen Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM42 ; ; 10
+#MV 5 V 1.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM43 ; ; 10
+#MV 5 V 2.Tiefe Messmonitor Mauerverstärkung
+- KTAB1KO__-3RM44 ; ; 10
+#MB 1 HP Aussen Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM45 ; ; 10
+#MB 1 HP Innen Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM46 ; ; 10
+#MB 1 HS Aussen Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM47 ; ; 10
+#MB 1 HS Innen Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM48 ; ; 10
+#MB 1 V 1.Tiefe Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM49 ; ; 10
+#MB 1 V 2.Tiefe Messmonitor Mauerbruchstein
+- KTAB1KO__-3RM50 ; ; 10
+# ------
+# - TH VG TR Thomson, Venturi, Trapez
+# ------
+#TH1.1 links Drainagewasser
+- KTAB1KO__-3H01 ; ; 10
+#TH1.2 mitte Drainagewasser
+- KTAB1KO__-3H02 ; ; 10
+#TH2.1 mitte Drainagewasser
+- KTAB1KO__-3H03 ; ; 10
+#TH2.2 rechts Drainagewasser
+- KTAB1KO__-3H04 ; ; 10
+#VG1 links Gesamtsickerwasser Hand
+- KTAB1KO__-3H05 ; ; 10
+# VG2 rechts Gesamtsickerwasser Hand
+- KTAB1KO__-3H06 ; ; 10
+# VG1 links Gesamtsickerwasser Hand Höhe
+- KTAB1KO__-3H07 ; 2490 ; 10
+# VG2 rechts Gesamtsickerwasser Hand Höhe
+- KTAB1KO__-3H08 ; 2491 ; 10
+# Trapez Messwehr 1
+- KTAB1KO__-3H09 ; ; 10
+# Trapez Messwehr 2
+- KTAB1KO__-3H10 ; ; 10
+# TH1.1 links Drainagewasser Messdauer
+# - KTAB1KO__-3R01 ; ; 10
+# TH1.2 mitte Drainagewasser Messdauer
+# - KTAB1KO__-3R02 ; ; 10
+# TH2.1 mitte Drainagewasser Messdauer
+# - KTAB1KO__-3R03 ; ; 10
+# TH2.2 rechts Drainagewasser Messdauer
+# - KTAB1KO__-3R04 ; ; 10
+# TH1.1 links Drainagewasser Messmenge
+# - KTAB1KO__-3V01 ; ; 10
+# TH1.2 mitte Drainagewasser Messmenge
+# - KTAB1KO__-3V02 ; ; 10
+# TH2.1 mitte Drainagewasser Messmenge
+# - KTAB1KO__-3V03 ; ; 10
+# TH2.2 rechts Drainagewasser Messmenge
+# - KTAB1KO__-3V04 ; ; 10
+# --------
+# - DU 5 - 18 Drainagenbohrungen Untergrund 
+# --------
+#DU 5_1 Drainage Untergrund
+- KTAB1VOR_-3H013 ; ; 10
+#DU 5_2 Drainage Untergrund
+- KTAB1VOR_-3H014 ; ; 10
+#DU 5_3 Drainage Untergrund
+- KTAB1VOR_-3H015 ; ; 10
+#DU 5_4 Drainage Untergrund
+- KTAB1VOR_-3H016 ; ; 10
+#DU 5_5 Drainage Untergrund
+- KTAB1VOR_-3H017 ; ; 10
+#DU 6_1 Drainage Untergrund
+- KTAB1VOR_-3H018 ; ; 10
+#DU 6_2 Drainage Untergrund
+- KTAB1VOR_-3H019 ; ; 10
+#DU 6_3 Drainage Untergrund
+- KTAB1VOR_-3H020 ; ; 10
+#DU 6_4 Drainage Untergrund
+- KTAB1VOR_-3H021 ; ; 10
+#DU 7_1 Drainage Untergrund
+- KTAB1VOR_-3H022 ; ; 10
+#DU 7_2 Drainage Untergrund
+- KTAB1VOR_-3H023 ; ; 10
+#DU 7_3 Drainage Untergrund
+- KTAB1VOR_-3H024 ; ; 10
+#DU 7_4 Drainage Untergrund
+- KTAB1VOR_-3H025 ; ; 10
+#DU 8_1 Drainage Untergrund
+- KTAB1VOR_-3H026 ; ; 10
+#DU 8_2 Drainage Untergrund
+- KTAB1VOR_-3H027 ; ; 10
+#DU 8_3 Drainage Untergrund
+- KTAB1VOR_-3H028 ; ; 10
+#DU 8_4 Drainage Untergrund
+- KTAB1VOR_-3H029 ; ; 10
+#DU 8_5 Drainage Untergrund
+- KTAB1VOR_-3H030 ; ; 10
+#DU 9_1 Drainage Untergrund
+- KTAB1VOR_-3H031 ; ; 10
+#DU 9_2 Drainage Untergrund
+- KTAB1VOR_-3H032 ; ; 10
+#DU 9_3 Drainage Untergrund
+- KTAB1VOR_-3H033 ; ; 10
+#DU 9_4 Drainage Untergrund
+- KTAB1VOR_-3H034 ; ; 10
+#DU 9_5 Drainage Untergrund
+- KTAB1VOR_-3H035 ; ; 10
+#DU 10_1 Drainage Untergrund
+- KTAB1VOR_-3H036 ; ; 10
+#DU 10_2 Drainage Untergrund
+- KTAB1VOR_-3H037 ; ; 10
+#DU 10_3 Drainage Untergrund
+- KTAB1VOR_-3H038 ; ; 10
+#DU 10_4 Drainage Untergrund
+- KTAB1VOR_-3H039 ; ; 10
+#DU 10_5 Drainage Untergrund
+- KTAB1VOR_-3H040 ; ; 10
+#DU 11_1 Drainage Untergrund
+- KTAB1VOR_-3H041 ; ; 10
+#DU 11_2 Drainage Untergrund
+- KTAB1VOR_-3H042 ; ; 10
+#DU 11_3 Drainage Untergrund
+- KTAB1VOR_-3H043 ; ; 10
+#DU 11_4 Drainage Untergrund
+- KTAB1VOR_-3H044 ; ; 10
+#DU 11_5 Drainage Untergrund
+- KTAB1VOR_-3H045 ; ; 10
+#DU 12I_1 Drainage Untergrund
+- KTAB1VOR_-3H046 ; ; 10
+#DU 12I_2 Drainage Untergrund
+- KTAB1VOR_-3H047 ; ; 10
+#DU 12I_3 Drainage Untergrund
+- KTAB1VOR_-3H048 ; ; 10
+#DU 12I_4 Drainage Untergrund
+- KTAB1VOR_-3H049 ; ; 10
+#DU 12I_5 Drainage Untergrund
+- KTAB1VOR_-3H050 ; ; 10
+#DU 12II_1 Drainage Untergrund
+- KTAB1VOR_-3H051 ; ; 10
+#DU 12II_2 Drainage Untergrund
+- KTAB1VOR_-3H052 ; ; 10
+#DU 13I_1 Drainage Untergrund
+- KTAB1VOR_-3H053 ; ; 10
+#DU 13I_2 Drainage Untergrund
+- KTAB1VOR_-3H054 ; ; 10
+#DU 13I_3 Drainage Untergrund
+- KTAB1VOR_-3H055 ; ; 10
+#DU 13I_4 Drainage Untergrund
+- KTAB1VOR_-3H056 ; ; 10
+#DU 13I_5 Drainage Untergrund
+- KTAB1VOR_-3H057 ; ; 10
+#DU 13II_1 Drainage Untergrund
+- KTAB1VOR_-3H058 ; ; 10
+#DU 13II_2 Drainage Untergrund
+- KTAB1VOR_-3H059 ; ; 10
+#DU 14I_1 Drainage Untergrund
+- KTAB1VOR_-3H060 ; ; 10
+#DU 14I_2 Drainage Untergrund
+- KTAB1VOR_-3H061 ; ; 10
+#DU 14I_3 Drainage Untergrund
+- KTAB1VOR_-3H062 ; ; 10
+#DU 14I_4 Drainage Untergrund
+- KTAB1VOR_-3H063 ; ; 10
+#DU 14I_5 Drainage Untergrund
+- KTAB1VOR_-3H064 ; ; 10
+#DU 14II_1 Drainage Untergrund
+- KTAB1VOR_-3H065 ; ; 10
+#DU 14II_2 Drainage Untergrund
+- KTAB1VOR_-3H066 ; ; 10
+#DU 15I_1 Drainage Untergrund
+- KTAB1VOR_-3H067 ; ; 10
+#DU 15I_2 Drainage Untergrund
+- KTAB1VOR_-3H068 ; ; 10
+#DU 15I_3 Drainage Untergrund
+- KTAB1VOR_-3H069 ; ; 10
+#DU 15I_4 Drainage Untergrund
+- KTAB1VOR_-3H070 ; ; 10
+#DU 15I_5 Drainage Untergrund
+- KTAB1VOR_-3H071 ; ; 10
+#DU 15II_1 Drainage Untergrund
+- KTAB1VOR_-3H072 ; ; 10
+#DU 15II_2 Drainage Untergrund
+- KTAB1VOR_-3H073 ; ; 10
+#DU_Stollen links_1 Drainage Untergrund
+- KTAB1VOR_-3H074 ; ; 10
+#DU_Stollen links_2 Drainage Untergrund
+- KTAB1VOR_-3H075 ; ; 10
+#DU_Stollen links_3 Drainage Untergrund
+- KTAB1VOR_-3H076 ; ; 10
+#DU_Stollen links_4 Drainage Untergrund
+- KTAB1VOR_-3H077 ; ; 10
+#DU 16I_1 Drainage Untergrund
+- KTAB1VOR_-3H078 ; ; 10
+#DU 16I_2 Drainage Untergrund
+- KTAB1VOR_-3H079 ; ; 10
+#DU 16I_3 Drainage Untergrund
+- KTAB1VOR_-3H080 ; ; 10
+#DU 16I_4 Drainage Untergrund
+- KTAB1VOR_-3H081 ; ; 10
+#DU 16I_5 Drainage Untergrund
+- KTAB1VOR_-3H082 ; ; 10
+#DU 16II_1 Drainage Untergrund
+- KTAB1VOR_-3H083 ; ; 10
+#DU 16II_2 Drainage Untergrund
+- KTAB1VOR_-3H084 ; ; 10
+#DU 17I_1 Drainage Untergrund
+- KTAB1VOR_-3H085 ; ; 10
+#DU 17I_2 Drainage Untergrund
+- KTAB1VOR_-3H086 ; ; 10
+#DU 17I_3 Drainage Untergrund
+- KTAB1VOR_-3H087 ; ; 10
+#DU 17I_4 Drainage Untergrund
+- KTAB1VOR_-3H088 ; ; 10
+#DU 17I_5 Drainage Untergrund
+- KTAB1VOR_-3H089 ; ; 10
+#DU 17II_1 Drainage Untergrund
+- KTAB1VOR_-3H090 ; ; 10
+#DU 17II_2 Drainage Untergrund
+- KTAB1VOR_-3H091 ; ; 10
+#DU 18I_1 Drainage Untergrund
+- KTAB1VOR_-3H092 ; ; 10
+#DU 18I_2 Drainage Untergrund
+- KTAB1VOR_-3H093 ; ; 10
+#DU 18I_3 Drainage Untergrund
+- KTAB1VOR_-3H094 ; ; 10
+#DU 18I_4 Drainage Untergrund
+- KTAB1VOR_-3H095 ; ; 10
+#DU 18I_5 Drainage Untergrund
+- KTAB1VOR_-3H096 ; ; 10
+#DU 18II_1 Drainage Untergrund
+- KTAB1VOR_-3H097 ; ; 10
+#DU 18II_2 Drainage Untergrund
+- KTAB1VOR_-3H098 ; ; 10
+# --------
+# - DU 19 - 31 Drainagenbohrungen Untergrund 
+# --------
+#DU 19I_1 Drainage Untergrund
+- KTAB1VOR_-3H099 ; ; 10
+#DU 19I_2 Drainage Untergrund
+- KTAB1VOR_-3H100 ; ; 10
+#DU 19I_3 Drainage Untergrund
+- KTAB1VOR_-3H101 ; ; 10
+#DU 19I_4 Drainage Untergrund
+- KTAB1VOR_-3H102 ; ; 10
+#DU 19I_5 Drainage Untergrund
+- KTAB1VOR_-3H103 ; ; 10
+#DU 19II_1 Drainage Untergrund
+- KTAB1VOR_-3H104 ; ; 10
+#DU 19II_2 Drainage Untergrund
+- KTAB1VOR_-3H105 ; ; 10
+#DU 20I_1 Drainage Untergrund
+- KTAB1VOR_-3H106 ; ; 10
+#DU 20I_2 Drainage Untergrund
+- KTAB1VOR_-3H107 ; ; 10
+#DU 20I_3 Drainage Untergrund
+- KTAB1VOR_-3H108 ; ; 10
+#DU 20I_4 Drainage Untergrund
+- KTAB1VOR_-3H109 ; ; 10
+#DU 20I_5 Drainage Untergrund
+- KTAB1VOR_-3H110 ; ; 10
+#DU 20II_1 Drainage Untergrund
+- KTAB1VOR_-3H111 ; ; 10
+#DU 20II_2 Drainage Untergrund
+- KTAB1VOR_-3H112 ; ; 10
+#DU 21I_1 Drainage Untergrund
+- KTAB1VOR_-3H113 ; ; 10
+#DU 21I_2 Drainage Untergrund
+- KTAB1VOR_-3H114 ; ; 10
+#DU 21I_3 Drainage Untergrund
+- KTAB1VOR_-3H115 ; ; 10
+#DU 21I_4 Drainage Untergrund
+- KTAB1VOR_-3H116 ; ; 10
+#DU 21I_5 Drainage Untergrund
+- KTAB1VOR_-3H117 ; ; 10
+#DU 21II_1 Drainage Untergrund
+- KTAB1VOR_-3H118 ; ; 10
+#DU 21II_2 Drainage Untergrund
+- KTAB1VOR_-3H119 ; ; 10
+#DU_Stollenrechts_1 Drainage Untergrund
+- KTAB1VOR_-3H120 ; ; 10
+#DU_Stollenrechts_2 Drainage Untergrund
+- KTAB1VOR_-3H121 ; ; 10
+#DU_Stollenrechts_3 Drainage Untergrund
+- KTAB1VOR_-3H122 ; ; 10
+#DU_Stollenrechts_4 Drainage Untergrund
+- KTAB1VOR_-3H123 ; ; 10
+#DU 22I_1 Drainage Untergrund
+- KTAB1VOR_-3H124 ; ; 10
+#DU 22I_2 Drainage Untergrund
+- KTAB1VOR_-3H125 ; ; 10
+#DU 22I_3 Drainage Untergrund
+- KTAB1VOR_-3H126 ; ; 10
+#DU 22I_4 Drainage Untergrund
+- KTAB1VOR_-3H127 ; ; 10
+#DU 22I_5 Drainage Untergrund
+- KTAB1VOR_-3H128 ; ; 10
+#DU 22II_1 Drainage Untergrund
+- KTAB1VOR_-3H129 ; ; 10
+#DU 22II_2 Drainage Untergrund
+- KTAB1VOR_-3H130 ; ; 10
+#DU 23I_1 Drainage Untergrund
+- KTAB1VOR_-3H131 ; ; 10
+#DU 23I_2 Drainage Untergrund
+- KTAB1VOR_-3H132 ; ; 10
+#DU 23I_3 Drainage Untergrund
+- KTAB1VOR_-3H133 ; ; 10
+#DU 23I_4 Drainage Untergrund
+- KTAB1VOR_-3H134 ; ; 10
+#DU 23I_5 Drainage Untergrund
+- KTAB1VOR_-3H135 ; ; 10
+#DU 23II_1 Drainage Untergrund
+- KTAB1VOR_-3H136 ; ; 10
+#DU 23II_2 Drainage Untergrund
+- KTAB1VOR_-3H137 ; ; 10
+#DU 24_1 Drainage Untergrund
+- KTAB1VOR_-3H138 ; ; 10
+#DU 24_2 Drainage Untergrund
+- KTAB1VOR_-3H139 ; ; 10
+#DU 24_3 Drainage Untergrund
+- KTAB1VOR_-3H140 ; ; 10
+#DU 24_4 Drainage Untergrund
+- KTAB1VOR_-3H141 ; ; 10
+#DU 24_5 Drainage Untergrund
+- KTAB1VOR_-3H142 ; ; 10
+#DU 25_1 Drainage Untergrund
+- KTAB1VOR_-3H143 ; ; 10
+#DU 25_2 Drainage Untergrund
+- KTAB1VOR_-3H144 ; ; 10
+#DU 25_3 Drainage Untergrund
+- KTAB1VOR_-3H145 ; ; 10
+#DU 25_4 Drainage Untergrund
+- KTAB1VOR_-3H146 ; ; 10
+#DU 25_5 Drainage Untergrund
+- KTAB1VOR_-3H147 ; ; 10
+#DU 26_1 Drainage Untergrund
+- KTAB1VOR_-3H148 ; ; 10
+#DU 26_2 Drainage Untergrund
+- KTAB1VOR_-3H149 ; ; 10
+#DU 26_3 Drainage Untergrund
+- KTAB1VOR_-3H150 ; ; 10
+#DU 26_4 Drainage Untergrund
+- KTAB1VOR_-3H151 ; ; 10
+#DU 26_5 Drainage Untergrund
+- KTAB1VOR_-3H152 ; ; 10
+#DU 27_1 Drainage Untergrund
+- KTAB1VOR_-3H153 ; ; 10
+#DU 27_2 Drainage Untergrund
+- KTAB1VOR_-3H154 ; ; 10
+#DU 27_3 Drainage Untergrund
+- KTAB1VOR_-3H155 ; ; 10
+#DU 27_4 Drainage Untergrund
+- KTAB1VOR_-3H156 ; ; 10
+#DU 27_5 Drainage Untergrund
+- KTAB1VOR_-3H157 ; ; 10
+#DU 28_1 Drainage Untergrund
+- KTAB1VOR_-3H158 ; ; 10
+#DU 28_2 Drainage Untergrund
+- KTAB1VOR_-3H159 ; ; 10
+#DU 28_3 Drainage Untergrund
+- KTAB1VOR_-3H160 ; ; 10
+#DU 28_4 Drainage Untergrund
+- KTAB1VOR_-3H161 ; ; 10
+#DU 28_5 Drainage Untergrund
+- KTAB1VOR_-3H162 ; ; 10
+#DU 29_1 Drainage Untergrund
+- KTAB1VOR_-3H163 ; ; 10
+#DU 29_2 Drainage Untergrund
+- KTAB1VOR_-3H164 ; ; 10
+#DU 29_3 Drainage Untergrund
+- KTAB1VOR_-3H165 ; ; 10
+#DU 29_4 Drainage Untergrund
+- KTAB1VOR_-3H166 ; ; 10
+#DU 29_5 Drainage Untergrund
+- KTAB1VOR_-3H167 ; ; 10
+#DU 30_1 Drainage Untergrund
+- KTAB1VOR_-3H168 ; ; 10
+#DU 30_2 Drainage Untergrund
+- KTAB1VOR_-3H169 ; ; 10
+#DU 30_3 Drainage Untergrund
+- KTAB1VOR_-3H170 ; ; 10
+#DU 30_4 Drainage Untergrund
+- KTAB1VOR_-3H171 ; ; 10
+#DU 30_5 Drainage Untergrund
+- KTAB1VOR_-3H172 ; ; 10
+#DU 31_1 Drainage Untergrund
+- KTAB1VOR_-3H173 ; ; 10
+#DU 31_2 Drainage Untergrund
+- KTAB1VOR_-3H174 ; ; 10
+#DU 31_3 Drainage Untergrund
+- KTAB1VOR_-3H175 ; ; 10
+#DU 31_4 Drainage Untergrund
+- KTAB1VOR_-3H176 ; ; 10
+#DU 31_5 Drainage Untergrund
+- KTAB1VOR_-3H177 ; ; 10
+# -----
+# - FM Filterrigolen Mauer
+# -----
+#FM 1 Filterrigole
+- KTAB1VOR_-3H001 ; ; 10
+#FM 2 Filterrigole
+- KTAB1VOR_-3H002 ; ; 10
+#FM 3 Filterrigole
+- KTAB1VOR_-3H003 ; ; 10
+#FM 4 Filterrigole
+- KTAB1VOR_-3H004 ; ; 10
+#FM 5 Filterrigole
+- KTAB1VOR_-3H005 ; ; 10
+#FM 6 Filterrigole
+- KTAB1VOR_-3H006 ; ; 10
+#FM 7 Filterrigole
+- KTAB1VOR_-3H007 ; ; 10
+#FM 8 Filterrigole
+- KTAB1VOR_-3H008 ; ; 10
+#FM 9 Filterrigole
+- KTAB1VOR_-3H009 ; ; 10
+#FM 10 Filterrigole
+- KTAB1VOR_-3H010 ; ; 10
+#FM 11 Filterrigole
+- KTAB1VOR_-3H011 ; ; 10
+#FM 12 Filterrigole
+- KTAB1VOR_-3H012 ; ; 10
+# -----
+# - BD Messbolzen Dichtwand
+# -----
+#BD 1 a-b Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM51 ; ; 10
+#BD 1 c-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM52 ; ; 10
+#BD 1 a-c Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM53 ; ; 10
+#BD 1 b-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM54 ; ; 10
+#BD 2 a-b Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM55 ; ; 10
+#BD 2 c-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM56 ; ; 10
+#BD 2 a-c Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM57 ; ; 10
+#BD 2 b-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM58 ; ; 10
+#BD 3 a-b Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM59 ; ; 10
+#BD 3 c-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM60 ; ; 10
+#BD 3 a-c Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM61 ; ; 10
+#BD 3 b-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM62 ; ; 10
+#BD 4 a-b Innen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM63 ; ; 10
+#BD 4 c-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM64 ; ; 10
+#BD 4 a-c Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM65 ; ; 10
+#BD 4 b-d Aussen Messbolzen Dichtwand horizontal
+- KTAB1KO__-3RM66 ; ; 10
+# ------
+# - KD Kontrollrohre Dichwand KD 3-23
+# ------
+#KD 3-4_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H178 ; ; 10
+#KD 6_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H179 ; ; 10
+#KD 6_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H180 ; ; 10
+#KD 6_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H181 ; ; 10
+#KD 7_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H182 ; ; 10
+#KD 7_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H183 ; ; 10
+#KD 7_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H184 ; ; 10
+#KD 8_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H185 ; ; 10
+#KD 8_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H186 ; ; 10
+#KD 8_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H187 ; ; 10
+#KD 9_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H188 ; ; 10
+#KD 9_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H189 ; ; 10
+#KD 9_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H190 ; ; 10
+#KD 10_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H191 ; ; 10
+#KD 10_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H192 ; ; 10
+#KD 10_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H193 ; ; 10
+#KD 11_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H194 ; ; 10
+#KD 11_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H195 ; ; 10
+#KD 11_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H196 ; ; 10
+#KD 12_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H197 ; ; 10
+#KD 12_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H198 ; ; 10
+#KD 12_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H199 ; ; 10
+#KD 13_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H200 ; ; 10
+#KD 13_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H201 ; ; 10
+#KD 13_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H202 ; ; 10
+#KD 14_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H203 ; ; 10
+#KD 14_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H204 ; ; 10
+#KD 14_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H205 ; ; 10
+#KD 15_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H206 ; ; 10
+#KD 15_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H207 ; ; 10
+#KD 15_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H208 ; ; 10
+#KD 16_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H209 ; ; 10
+#KD 16_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H210 ; ; 10
+#KD 16_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H211 ; ; 10
+#KD 17_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H212 ; ; 10
+#KD 17_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H213 ; ; 10
+#KD 17_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H214 ; ; 10
+#KD 18_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H215 ; ; 10
+#KD 18_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H216 ; ; 10
+#KD 18_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H217 ; ; 10
+#KD 19_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H218 ; ; 10
+#KD 19_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H219 ; ; 10
+#KD 19_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H220 ; ; 10
+#KD 20_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H221 ; ; 10
+#KD 20_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H222 ; ; 10
+#KD 20_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H223 ; ; 10
+#KD 21_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H224 ; ; 10
+#KD 21_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H225 ; ; 10
+#KD 21_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H226 ; ; 10
+#KD 22_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H227 ; ; 10
+#KD 22_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H228 ; ; 10
+#KD 22_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H229 ; ; 10
+#KD 23_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H230 ; ; 10
+#KD 23_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H231 ; ; 10
+#KD 23_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H232 ; ; 10
+# -------
+# - KD 24 - 33 KD Kontrollrohre Dichtwand
+# -------
+#KD 24_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H233 ; ; 10
+#KD 24_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H234 ; ; 10
+#KD 24_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H235 ; ; 10
+#KD 25_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H236 ; ; 10
+#KD 25_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H237 ; ; 10
+#KD 25_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H238 ; ; 10
+#KD 26_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H239 ; ; 10
+#KD 26_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H240 ; ; 10
+#KD 26_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H241 ; ; 10
+#KD 27_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H242 ; ; 10
+#KD 27_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H243 ; ; 10
+#KD 27_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H244 ; ; 10
+#KD 28_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H245 ; ; 10
+#KD 28_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H246 ; ; 10
+#KD 28_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H247 ; ; 10
+#KD 29_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H248 ; ; 10
+#KD 29_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H249 ; ; 10
+#KD 29_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H250 ; ; 10
+#KD 30_1 Kontrolle Dichtwand
+- KTAB1VOR_-3H251 ; ; 10
+#KD 30_2 Kontrolle Dichtwand
+- KTAB1VOR_-3H252 ; ; 10
+#KD 30_3 Kontrolle Dichtwand
+- KTAB1VOR_-3H253 ; ; 10
+
+#
+# --------
+# -- SC --
+# --------
+# ALDA
+# Wassert 
+- SCSK1____-3H01; ; 10 
+# Wassert 2m
+- SCSK1____-3H02; ; 10 
+# Stauhoehe 
+- SCSK1____-3H03; ; 10 
+# Gewitter 
+- SC_______-3H02; ; 
+# Lufttemp Min 
+- SCAB1____-3H01; ; 10 
+# Lufttemp Max 
+- SCAB1____-3H02; ; 10 
+# Niederschlag 
+- SCAB1____-3H06; ; 10 
+# SC - GRUNDWASSER
+# GW1 
+- SCAB1____-3H03; ; 10 
+# GW2 
+- SCAB1____-3H04; ; 10 
+# GW3 
+- SCAB1____-3H05; ; 10 
+# SC - SICKERWASSER
+# Rigole I
+- SCAB1AAD_-3H01; ; 5 
+# Rigole II 
+- SCAB1AAD_-3H02; ; 5 
+# Rigole III 
+- SCAB1AAD_-3H03; ; 5 
+# SC - WASSERSTAND IM DAMM
+# D1 
+- SCAB1AAD_-3H04; ; 5 
+# D2 
+- SCAB1AAD_-3H05; ; 5 
+# D3 
+- SCAB1AAD_-3H06; ; 5 
+# ---------
+# NE
+# ---------
+# NE - ALDA
+# Gewitter 
+- NE_______-3H02; ; 
+# Lufttemp Min 
+- NEAB1____-3H01; ; 10 
+# Lufttemp Max 
+- NEAB1____-3H02; ; 10 
+# Luftdruck 
+- NEAB1____-3H11; ; 10
+# Abfluss
+- NEPNA____-3F01; ; 10 
+# Wassert 
+- NESK1____-3H01; ; 10 
+# Wassert 2m 
+- NESK1____-3H02; ; 10 
+# Stauhoehe 
+- NESK1____-3H03; ; 10 
+# NE - GRUNDWASSER
+# GW1 
+- NEAB1____-3H04; ; 10 
+# GW2 
+- NEAB1____-3H05; ; 10 
+# GW3 
+- NEAB1____-3H06; ; 10 
+# GW4 
+- NEAB1____-3H07; ; 10 
+# GW5 
+- NEAB1____-3H08; ; 10 
+# GW6 
+- NEAB1____-3H09; ; 10 
+# GW7
+- NEAB1____-3H10; ; 10 
+# NE - SICKERWASSER
+# DL 1 l Stollen- l Seite 
+- NEAB1APD_-3F01; ; 10 
+# DL 2 l Stollen- r Seite 
+- NEAB1APD_-3F02; ; 10 
+# DL 3 l Stollen- Rest 
+- NEAB1APD_-3F03; ; 10 
+# DR 1 r Stollen- l Seite 
+- NEAB1APD_-3F04; ; 10 
+# DR 2 r Stollen- r Seite 
+- NEAB1APD_-3F05; ; 10 
+# Thomsenwehr 
+- NEAB1APD_-3F07; ; 10 
+# Thomsenwehr Ablesung 
+- NEAB1APD_-3F06; ; 10 
+# SWD - Handmessungen
+# SD2a Hand Schieberkammer 
+- NEAB1DS__-3H01; NEAB1DS__-3P01; 10 
+# SD2b Hand Schieberkammer 
+- NEAB1DS__-3H02; NEAB1DS__-3P02; 10 
+# SD3a Hand Schieberkammer 
+- NEAB1DS__-3H03; NEAB1DS__-3P20; 10 
+# SD3b Hand Schieberkammer 
+- NEAB1DS__-3H04; NEAB1DS__-3P21; 10 
+# SD4a Hand Schieberkammer 
+- NEAB1DS__-3H05; NEAB1DS__-3P27; 10 
+# SD4b Hand Schieberkammer 
+- NEAB1DS__-3H06; NEAB1DS__-3P05; 10 
+# SD5a Hand Schieberkammer 
+- NEAB1DS__-3H07; NEAB1DS__-3P22; 10 
+# SD5b Hand Schieberkammer 
+- NEAB1DS__-3H08; NEAB1DS__-3P23; 10 
+# SD6a Hand Schieberkammer 
+- NEAB1DS__-3H09; NEAB1DS__-3P08; 10 
+# SD6b Hand Schieberkammer 
+- NEAB1DS__-3H10; NEAB1DS__-3P09; 10 
+# SD7a Hand Schieberkammer 
+- NEAB1DS__-3H11; NEAB1DS__-3P10; 10 
+# SD7b Hand Schieberkammer 
+- NEAB1DS__-3H12; NEAB1DS__-3P11; 10 
+# Mauerfuss 
+# F1 Mauerfuss MQ1
+- NEAB1DS__-3P03; ; 10 
+# SD4a Automatik alt 
+- NEAB1DS__-3P04; ; 10 
+# F2.1 Mauerfuss MQ2 
+- NEAB1DS__-3P06; ; 10
+# F2.2 Mauerfuss MQ2 
+- NEAB1DS__-3P07; ; 10 
+# F4.1 Mauerfuss MQ4 
+- NEAB1DS__-3P12; ; 10 
+# F4.2 Mauerfuss MQ4 
+- NEAB1DS__-3P13; ; 10 
+# F5 Mauerfuss MQ5 
+- NEAB1DS__-3P16; ; 10 
+# K(S3) Sohlfuge MQ3 
+- NEAB1DS__-3P17; ; 10 
+# K(M3) MQ3 
+- NEAB1DS__-3P26; ; 10 
+# SD - Automatik - Ablesungen
+# SD1a Automatik 
+- NEAB1DS__-3P18; ; 10 
+# SD1b Automatik 
+- NEAB1DS__-3P19; ; 10 
+# SD2a Automatik
+- NEAB1DS__-3P01; ; 10 
+# SD2b Automatik
+- NEAB1DS__-3P02; ; 10
+# SD3a Automatik 
+- NEAB1DS__-3P20; ; 10 
+# SD3b Automatik 
+- NEAB1DS__-3P21; ; 10 
+# SD4a Automatik neu 
+- NEAB1DS__-3P27; ; 10 
+# SD4b Automatik
+- NEAB1DS__-3P05; ; 10 
+# SD5a Automatik 
+- NEAB1DS__-3P22; ; 10 
+# SD5b Automatik
+- NEAB1DS__-3P23; ; 10 
+# SD6a Automatik Wasserseite MQ3
+- NEAB1DS__-3P08; ; 10 
+# SD6b Automatik Luftseite MQ3 
+- NEAB1DS__-3P09; ; 10 
+# SD7a Automatik Wasserseite MQ4
+- NEAB1DS__-3P10; ; 10 
+# SD7b Automatik Luftseite MQ4 
+- NEAB1DS__-3P11; ; 10 
+# SD8a Automatik 
+- NEAB1DS__-3P14; ; 10 
+# SD8b Automatik 
+- NEAB1DS__-3P15; ; 10 
+# SD9a Automatik 
+- NEAB1DS__-3P24; ; 10 
+# SD9b Automatik 
+- NEAB1DS__-3P25; ; 10 
+# SD1a im Verpressstollen 
+- NEAB1DS__-3P28; NEAB1DS__-3P18; 10 
+# SD1b im Verpressstollen 
+- NEAB1DS__-3P29; NEAB1DS__-3P19; 10 
+# SD2a im Verpressstollen 
+- NEAB1DS__-3P30; NEAB1DS__-3P01; 10 
+# SD2b im Verpressstollen 
+- NEAB1DS__-3P31; NEAB1DS__-3P02; 10 
+# SD3a im Verpressstollen 
+- NEAB1DS__-3P32; NEAB1DS__-3P20; 10 
+# SD3b im Verpressstollen 
+- NEAB1DS__-3P33; NEAB1DS__-3P21; 10 
+# SD4a im Verpressstollen 
+- NEAB1DS__-3P34; NEAB1DS__-3P27; 10 
+# SD4b im Verpressstollen 
+- NEAB1DS__-3P35; NEAB1DS__-3P05; 10 
+# SD5a im Verpressstollen 
+- NEAB1DS__-3P36; NEAB1DS__-3P22; 10 
+# SD5b im Verpressstollen 
+- NEAB1DS__-3P37; NEAB1DS__-3P23; 10 
+# SD6a im Verpressstollen 
+- NEAB1DS__-3P38; NEAB1DS__-3P08; 10 
+# SD6b im Verpressstollen 
+- NEAB1DS__-3P39; NEAB1DS__-3P09; 10 
+# SD7a im Verpressstollen 
+- NEAB1DS__-3P40; NEAB1DS__-3P10; 10 
+# SD7b im Verpressstollen 
+- NEAB1DS__-3P41; NEAB1DS__-3P11; 10 
+# SD8a im Verpressstollen 
+- NEAB1DS__-3P42; NEAB1DS__-3P14; 10 
+# SD8b im Verpressstollen 
+- NEAB1DS__-3P43; NEAB1DS__-3P15; 10 
+# SD9a im Verpressstollen 
+- NEAB1DS__-3P44; NEAB1DS__-3P24; 10 
+# SD9b im Verpressstollen 
+- NEAB1DS__-3P45; NEAB1DS__-3P25; 10 
+# NE - Lotmessungen - noch nicht hinterlegt
+# --------
+# -- PA --
+# --------
+# ALDA
+# Durchfluss DN 250 
+- PAAB1GA__-3F03; PAAB1GA__-3F04 ; 10 
+# Wassert 2m 
+- PAAB1____-3H11; ; 10 
+# Wassertemp 
+- PAAB1____-3H10; ; 10 
+# Speicherfuellstand Pegellatte 
+- PA_______-3H04; PASK1____-3L01 ; 10 
+# Gewitter
+- PA_______-3H02; ; 
+# GW1 
+- PAAB1____-3H01; ; 10 
+# GW2 
+- PAAB1____-3H02; ; 10 
+# Oeffnungsgrad DN 500 
+- PAAB1GA__-2OD2; PAAB1GA__-2OD4; 10 
+# Schuettmenge DU links
+- PAAB1____-3H15; PAAB1KO__-3F03 ; 1 
+# Schuettmenge DU rechts
+- PAAB1____-3H16; PAAB1KO__-3F04 ; 1 
+# Schuettmenge KD links 
+- PAAB1____-3H13; PAAB1KO__-3F01 ; 1 
+# Schuettmenge KD rechts 
+- PAAB1____-3H14; PAAB1KO__-3F02 ; 1 
+# Sohlenwasserdruck SBK links
+- PAAB1____-3H17; ; 10 
+# Sohlenwasserdruck SBK rechts
+- PAAB1____-3H18; ; 10 
+# Wasserstand Mauer F1.1 
+- PAAB1____-3H07; ; 10 
+# Wasserstand Mauer F2.1 
+- PAAB1____-3H08; ; 10 
+# Wasserstand Mauer K1.2 
+- PAAB1____-3H03; ; 10 
+# Wasserstand Mauer K1.3 
+- PAAB1____-3H12; ; 10 
+# Wasserstand Mauer K2.1
+- PAAB1____-3H04; ; 10 
+# Wasserstand Mauer K2.2 
+- PAAB1____-3H06; ; 10 
+#
+# --------
+# -- WU --
+# --------
+# GW6 Grundwasserpegel
+- WUAB1____-3H03; ; 100 
+# GW9 Grundwasserpegel
+- WUAB1____-3H06; ; 100 
+# Lufttemperatur maximal
+- WUAB1____-3H11; ; 100 
+# Wassertemperatur Oberfläche
+- WUSK1____-3H10; ; 100 
+# GW8 Grundwasserpegel
+- WUAB1____-3H05; ; 100 
+# Gewitter
+- WU_______-3H02; ; 100 
+# GW7 Grundwasserpegel
+- WUAB1____-3H04; ; 100 
+# Wassertemperatur 2m
+- WUSK1____-3H11; ; 100 
+# Wetterlage
+- WU_______-3H01; ; 100 
+# Lufttemperatur minimal
+- WUAB1____-3H10; ; 100 
+# SWD1W Sohlenwasserdruck Hand
+- WUAB1DS__-3H01; ; 100 
+# GW3 Grundwasserpegel Hand
+- WUAB1____-3H07; ; 100 
+# GW4 Grundwasserpegel Hand
+- WUAB1____-3H08; ; 100 
+# Niederschlag Handmessung
+- WUAB1____-3H09; ; 100 
+# GW4.1 Grundwasserpegel
+- WUAB1____-3H01; ; 100 
+# GW5 Grundwasserpegel
+- WUAB1____-3H02; ; 100 
+# GW2 Grundwasserpegel Hand
+- WUAB1____-3H13; ; 100 
+# GW1 Grundwasserpegel Hand
+- WUAB1____-3H12; ; 100 
+# SWD2W Sohlenwasserdruck Hand
+- WUAB1DS__-3H04; ; 100 
+# SWD2A Sohlenwasserdruck Hand
+- WUAB1DS__-3H05; ; 100 
+# SWD2L Sohlenwasserdruck Hand
+- WUAB1DS__-3H06; ; 100 
+# SWD3W Sohlenwasserdruck Hand
+- WUAB1DS__-3H07; ; 100 
+# SWD3A Sohlenwasserdruck Hand
+- WUAB1DS__-3H08; ; 100 
+# SWD3L Sohlenwasserdruck Hand
+- WUAB1DS__-3H09; ; 100 
+# SWD4W Sohlenwasserdruck Hand
+- WUAB1DS__-3H10; ; 100 
+# SWD4A Sohlenwasserdruck Hand
+- WUAB1DS__-3H11; ; 100 
+# SWD4L Sohlenwasserdruck Hand
+- WUAB1DS__-3H12; ; 100 
+# SWD5W Sohlenwasserdruck Hand
+- WUAB1DS__-3H13; ; 100 
+# SWD5A Sohlenwasserdruck Hand
+- WUAB1DS__-3H14; ; 100 
+# SWD5L Sohlenwasserdruck Hand
+- WUAB1DS__-3H15; ; 100 
+# SWD6W Sohlenwasserdruck Hand
+- WUAB1DS__-3H16; ; 100 
+# SWD6A Sohlenwasserdruck Hand
+- WUAB1DS__-3H17; ; 100 
+# SWD6L Sohlenwasserdruck Hand
+- WUAB1DS__-3H18; ; 100 
+# Pz1 Piezometer Hand
+- WUAB1DS__-3H19; ; 100 
+# Pz2 Piezometer Hand
+- WUAB1DS__-3H20; ; 100 
+# Pz3 Piezometer Hand
+- WUAB1DS__-3H21; ; 100 
+# Pz4 Piezometer Hand
+- WUAB1DS__-3H22; ; 100 
+# Pz5 Piezometer Hand
+- WUAB1DS__-3H23; ; 100 
+# Pz6 Piezometer Hand
+- WUAB1DS__-3H24; ; 100 
+# Pz7 Piezometer Hand
+- WUAB1DS__-3H25; ; 100 
+# Pz8 Piezometer Hand
+- WUAB1DS__-3H26; ; 100 
+# SWD1A Sohlenwasserdruck Hand
+- WUAB1DS__-3H02; ; 100 
+# SWD1L Sohlenwasserdruck Hand
+- WUAB1DS__-3H03; ; 100 
+# Pz9 Piezometer Hand
+- WUAB1DS__-3H27; ; 100 
+# Pz10 Piezometer Hand
+- WUAB1DS__-3H28; ; 100 
+# Pz11 Piezometer Hand
+- WUAB1DS__-3H29; ; 100 
+# Pz12 Piezometer Hand
+- WUAB1DS__-3H30; ; 100 
+# Pz13 Piezometer Hand
+- WUAB1DS__-3H31; ; 100 
+# Pz14 Piezometer Hand
+- WUAB1DS__-3H32; ; 100 
+# Pz15 Piezometer Hand
+- WUAB1DS__-3H33; ; 100 
+# UWL Sickerwasser Unterwasser links Hand
+- WUAB1AD__-3H01; ; 100 
+# OWL Sickerwasser Oberwasser links Hand
+- WUAB1AD__-3H02; ; 100 
+# OWR Sickerwasser Oberwasser rechts Hand
+- WUAB1AD__-3H03; ; 100 
+# UWR Sickerwasser Unterwasser rechts Hand
+- WUAB1AD__-3H04; ; 100 
+# Stauhöhe Pegellatte
+- WUSK1____-3H03; ; 100 
+#
+# --------
+# -- BR --
+# --------
+# SWD1W Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H01; ; 100 
+# SWD1A Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H02; ; 100 
+# SWD1L Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H03; ; 100 
+# SWD1Lo Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H04; ; 100 
+# SWD2W Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H05; ; 100 
+# SWD2A Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H06; ; 100 
+# SWD2L Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H07; ; 100 
+# SWD3L Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H10; ; 100 
+# SWD4W Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H11; ; 100 
+# SWD4A Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H12; ; 100 
+# SWD4L Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H13; ; 100 
+# SWD5W Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H14; ; 100 
+# SWD5A Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H15; ; 100 
+# SWD5L Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H16; ; 100 
+# Lufttemperatur minimum Hand
+- BRAB1____-3H01; ; 100 
+# Lufttemperatur maximum Hand
+- BRAB1____-3H02; ; 100 
+# DM 4.2 Sickerwasser
+- BRAB1KO__-3H01; ; 100 
+# DM 7.2 Sickerwasser
+- BRAB1KO__-3H02; ; 100 
+# DM 8.1 Sickerwasser
+- BRAB1KO__-3H03; ; 100 
+# DM 8.2 Sickerwasser
+- BRAB1KO__-3H04; ; 100 
+# DM 11.1 Sickerwasser
+- BRAB1KO__-3H09; ; 100 
+# DM 11.2 Sickerwasser
+- BRAB1KO__-3H10; ; 100 
+# DM 12.1 Sickerwasser
+- BRAB1KO__-3H11; ; 100 
+# DM 12.2 Sickerwasser
+- BRAB1KO__-3H12; ; 100 
+# DM 13.1 Sickerwasser
+- BRAB1KO__-3H13; ; 100 
+# DM 13.2 Sickerwasser
+- BRAB1KO__-3H14; ; 100 
+# DM 14.1 Sickerwasser
+- BRAB1KO__-3H15; ; 100 
+# DM 14.2 Sickerwasser
+- BRAB1KO__-3H16; ; 100 
+# DM 15.1 Sickerwasser
+- BRAB1KO__-3H17; ; 100 
+# DM 15.2 Sickerwasser
+- BRAB1KO__-3H18; ; 100 
+# DM 16.1 Sickerwasser
+- BRAB1KO__-3H19; ; 100 
+# DM 16.2 Sickerwasser
+- BRAB1KO__-3H20; ; 100 
+# DM 17.1 Sickerwasser
+- BRAB1KO__-3H21; ; 100 
+# DM 19.1 Sickerwasser
+- BRAB1KO__-3H22; ; 100 
+# DM 19.2 Sickerwasser
+- BRAB1KO__-3H23; ; 100 
+# DM 20.1 Sickerwasser
+- BRAB1KO__-3H24; ; 100 
+# KD 10.1 Sickerwasser
+- BRAB1KO__-3H25; ; 100 
+# KD 13.1 Sickerwasser
+- BRAB1KO__-3H26; ; 100 
+# KD 15.4 Sickerwasser
+- BRAB1KO__-3H27; ; 100 
+# KD 16.3 Sickerwasser
+- BRAB1KO__-3H28; ; 100 
+# KD 16.4 Sickerwasser
+- BRAB1KO__-3H29; ; 100 
+# KD 17.4 Sickerwasser
+- BRAB1KO__-3H30; ; 100 
+# DU 6.2 Sickerwasser
+- BRAB1KO__-3H31; ; 100 
+# DU 7.1 Sickerwasser
+- BRAB1KO__-3H32; ; 100 
+# DU 7.2 Sickerwasser
+- BRAB1KO__-3H33; ; 100 
+# DU 8.1 Sickerwasser
+- BRAB1KO__-3H34; ; 100 
+# DU 8.2 Sickerwasser
+- BRAB1KO__-3H35; ; 100 
+# DU 9.1 Sickerwasser
+- BRAB1KO__-3H36; ; 100 
+# DU 9.2 Sickerwasser
+- BRAB1KO__-3H37; ; 100 
+# DU 10.1 Sickerwasser
+- BRAB1KO__-3H38; ; 100 
+# DU 10.2 Sickerwasser
+- BRAB1KO__-3H39; ; 100 
+# DU 11.1 Sickerwasser
+- BRAB1KO__-3H40; ; 100 
+# DU 11.2 Sickerwasser
+- BRAB1KO__-3H41; ; 100 
+# DU 12.1 Sickerwasser
+- BRAB1KO__-3H42; ; 100 
+# DU 12.2 Sickerwasser
+- BRAB1KO__-3H43; ; 100 
+# DU 13.1 Sickerwasser
+- BRAB1KO__-3H44; ; 100 
+# DU 13.2 Sickerwasser
+- BRAB1KO__-3H45; ; 100 
+# DU 14.1 Sickerwasser
+- BRAB1KO__-3H46; ; 100 
+# DU 14.2 Sickerwasser
+- BRAB1KO__-3H47; ; 100 
+# DU 15.1 Sickerwasser
+- BRAB1KO__-3H48; ; 100 
+# DU 15.2 Sickerwasser
+- BRAB1KO__-3H49; ; 100 
+# DU 16.1 Sickerwasser
+- BRAB1KO__-3H50; ; 100 
+# DU 16.2 Sickerwasser
+- BRAB1KO__-3H51; ; 100 
+# DU 17.1 Sickerwasser
+- BRAB1KO__-3H52; ; 100 
+# DU 17.2 Sickerwasser
+- BRAB1KO__-3H53; ; 100 
+# DU 18.1 Sickerwasser
+- BRAB1KO__-3H54; ; 100 
+# DU 18.2 Sickerwasser
+- BRAB1KO__-3H55; ; 100 
+# DU 19.1 Sickerwasser
+- BRAB1KO__-3H56; ; 100 
+# DU 19.2 Sickerwasser
+- BRAB1KO__-3H57; ; 100 
+# DU 20.1 Sickerwasser
+- BRAB1KO__-3H58; ; 100 
+# DU 20.2 Sickerwasser
+- BRAB1KO__-3H59; ; 100 
+# DU 21.1 Sickerwasser
+- BRAB1KO__-3H60; ; 100 
+# DU 21.2 Sickerwasser
+- BRAB1KO__-3H61; ; 100 
+# DU 22.1 Sickerwasser
+- BRAB1KO__-3H62; ; 100 
+# DU 22.2 Sickerwasser
+- BRAB1KO__-3H63; ; 100 
+# DU 23.1 Sickerwasser
+- BRAB1KO__-3H64; ; 100 
+# DU 23.2 Sickerwasser
+- BRAB1KO__-3H65; ; 100 
+# DU 24.1 Sickerwasser
+- BRAB1KO__-3H66; ; 100 
+# DU 24.2 Sickerwasser
+- BRAB1KO__-3H67; ; 100 
+# DM KD links Sickerwasser Hand
+- BRAB1KO__-3H69; ; 100 
+# Wetterlage
+- BR_______-3H01; ; 100 
+# Gewitter
+- BR_______-3H02; ; 100 
+# GW1 Grundwasser Handeingabe
+- BRAB1____-3H20; ; 100 
+# GW2 Grundwasser Handeingabe
+- BRAB1____-3H21; ; 100 
+# GW3 Grundwasser Handeingabe
+- BRAB1____-3H22; ; 100 
+# GW4 Grundwasser Handeingabe
+- BRAB1____-3H23; ; 100 
+# Öffnungsgrad Wasserkraftanlage
+- BRAB1WKA_-2OD1; ; 100 
+# Durchfluss Wasserkraftanlage
+- BRAB1WKA_-3F01; ; 100 
+# Stauhöhe Pegellatte
+- BRSK1____-3H03; ; 100 
+# DM KD rechts Sickerwasser Hand
+- BRAB1KO__-3H68; ; 100 
+# DU L Drainage Untergrund links Hand
+- BRAB1KO__-3H72; ; 100 
+# Öffnungsgrad Bypass DN 150
+- BRAB1BYPA-2OD1; ; 100 
+# Durchfluss Bypass DN 150
+- BRAB1BYPA-3F01; ; 100 
+# Öffnungsgrad Ringkolbenventil rechts DN 600/800
+- BRAB1RKVR-2OD1; ; 100 
+# Durchfluss Ringkolbenventil rechts DN 600/800
+- BRAB1RKVR-3F01; ; 100 
+# Öffnungsgrad Ringkolbenventil links DN 600/800
+- BRAB1RKVL-2OD1; ; 100 
+# Durchfluss Ringkolbenventil links DN 600/800
+- BRAB1RKVL-3F01; ; 100 
+# DM 9.1 Sickerwasser
+- BRAB1KO__-3H05; ; 100 
+# DM 9.2 Sickerwasser
+- BRAB1KO__-3H06; ; 100 
+# DM 10.1 Sickerwasser
+- BRAB1KO__-3H07; ; 100 
+# DM 10.2 Sickerwasser
+- BRAB1KO__-3H08; ; 100 
+# Wassertemperatur Oberfläche
+- BRSK1____-3H01; ; 100 
+# Wassertemperatur 2m Tiefe
+- BRSK1____-3H02; ; 100 
+# SWD3W Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H08; ; 100 
+# SWD3A Sohlenwasserdruck Handeingabe
+- BRAB1DS__-3H09; ; 100 
+# KD 17.1 Sickerwasser
+- BRAB1KO__-3H70; ; 100 
+# DU R Drainage Untergrund rechts Hand
+- BRAB1KO__-3H71; ; 100 
+#
+# --------
+# -- LI --
+# --------
+# Lufttemperatur minimum Hand
+- LIAB1____-3H01; ; 100 
+# Lufttemperatur maximum Hand
+- LIAB1____-3H02; ; 100 
+# SWD1W Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H01; ; 100 
+# SWD1A Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H02; ; 100 
+# SWD1L Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H03; ; 100 
+# SWD3W Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H07; ; 100 
+# Wetterlage
+- LI_______-3H01; ; 100 
+# SWD3A Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H08; ; 100 
+# SWD3L Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H09; ; 100 
+# Wassertemperatur Oberfläche ; 
+- LISK1____-3H01; ; 100 
+# Wassertemperatur 2m Tiefe
+- LISK1____-3H02; ; 100 
+# Gewitter
+- LI_______-3H02; ; 100 
+# K4SW Kronenbohrung Handeingabe
+- LIAB1____-3H28; ; 100 
+# F1SL Fußbohrung Luft Handeingabe
+- LIAB1____-3H32; ; 100 
+# F2SA Fußbohrung Achse Handeingabe
+- LIAB1____-3H34; ; 100 
+# K2MW Kronenbohrung Handeingabe
+- LIAB1____-3H36; ; 100 
+# K3SW Kronenbohrung Handeingabe
+- LIAB1____-3H37; ; 100 
+# K3MW Kronenbohrung Handeingabe
+- LIAB1____-3H38; ; 100 
+# K5MW Kronenbohrung Handeingabe
+- LIAB1____-3H41; ; 100 
+# Niederschlag Lingese/Brucher
+- LIAB1____-3H42; ; 100 
+# DU I 13.1 Sickerwasser
+- LIAB1VOR_-3H74; ; 100 
+# DU R Drainage Untergrund rechts Handeingabe
+- LIAB1VOR_-3H75; ; 100 
+# DU L Drainage Untergrund links Handeingabe
+- LIAB1VOR_-3H76; ; 100 
+# FM links Sickerwasser
+- LIAB1VOR_-3H01; ; 100 
+# FM rechts Sickerwasser
+- LIAB1VOR_-3H03; ; 100 
+# DU I 7.3 Sickerwasser
+- LIAB1VOR_-3H04; ; 100 
+# DU I 8.1 Sickerwasser
+- LIAB1VOR_-3H05; ; 100 
+# DU I 8.2 Sickerwasser
+- LIAB1VOR_-3H06; ; 100 
+# DU I 8.3 Sickerwasser
+- LIAB1VOR_-3H07; ; 100 
+# GW4 Grundwasser Handeingabe
+- LIAB1____-3H23; ; 100 
+# GW5 Grundwasser Handeingabe
+- LIAB1____-3H24; ; 100 
+# GW6 Grundwasser Handeingabe
+- LIAB1____-3H25; ; 100 
+# GW7 Grundwasser Handeingabe
+- LIAB1____-3H26; ; 100 
+# GW8 Grundwasser Handeingabe
+- LIAB1____-3H27; ; 100 
+# DU I 9.1 Sickerwasser
+- LIAB1VOR_-3H09; ; 100 
+# DU I 9.2 Sickerwasser
+- LIAB1VOR_-3H10; ; 100 
+# DU I 9.3 Sickerwasser
+- LIAB1VOR_-3H11; ; 100 
+# DU I 9.4 Sickerwasser
+- LIAB1VOR_-3H12; ; 100 
+# DU I 10.2 Sickerwasser
+- LIAB1VOR_-3H13; ; 100 
+# DU II 10.2 Sickerwasser
+- LIAB1VOR_-3H14; ; 100 
+# DU I 10.3 Sickerwasser
+- LIAB1VOR_-3H15; ; 100 
+# DU I 10.4 Sickerwasser
+- LIAB1VOR_-3H16; ; 100 
+# DU II 11.1 Sickerwasser
+- LIAB1VOR_-3H17; ; 100 
+# DU I 11.1 Sickerwasser
+- LIAB1VOR_-3H18; ; 100 
+# DU I 11.2 Sickerwasser
+- LIAB1VOR_-3H19; ; 100 
+# DU II 11.2 Sickerwasser
+- LIAB1VOR_-3H20; ; 100 
+# DU I 11.4 Sickerwasser
+- LIAB1VOR_-3H22; ; 100 
+# DU I 12.1 Sickerwasser
+- LIAB1VOR_-3H23; ; 100 
+# DU II 12.1 Sickerwasser
+- LIAB1VOR_-3H24; ; 100 
+# DU I 12.2 Sickerwasser
+- LIAB1VOR_-3H25; ; 100 
+# DU I 12.3 Sickerwasser
+- LIAB1VOR_-3H27; ; 100 
+# DU II 13.1 Sickerwasser
+- LIAB1VOR_-3H28; ; 100 
+# DU I 13.2 Sickerwasser
+- LIAB1VOR_-3H29; ; 100 
+# DU II 13.2 Sickerwasser
+- LIAB1VOR_-3H30; ; 100 
+# DU I 13.4 Sickerwasser
+- LIAB1VOR_-3H32; ; 100 
+# DU I 14.1 Sickerwasser
+- LIAB1VOR_-3H33; ; 100 
+# DU II 14.1 Sickerwasser
+- LIAB1VOR_-3H34; ; 100 
+# DU I 14.2 Sickerwasser
+- LIAB1VOR_-3H35; ; 100 
+# DU I 14.3 Sickerwasser
+- LIAB1VOR_-3H37; ; 100 
+# DU I 14.4 Sickerwasser
+- LIAB1VOR_-3H38; ; 100 
+# DU II 15.1 Sickerwasser
+- LIAB1VOR_-3H39; ; 100 
+# DU I 15.1 Sickerwasser
+- LIAB1VOR_-3H40; ; 100 
+# DU I 15.2 Sickerwasser
+- LIAB1VOR_-3H41; ; 100 
+# DU I 15.3 Sickerwasser
+- LIAB1VOR_-3H43; ; 100 
+# DU I 15.4 Sickerwasser
+- LIAB1VOR_-3H44; ; 100 
+# DU I 16.1 Sickerwasser
+- LIAB1VOR_-3H45; ; 100 
+# DU II 16.1 Sickerwasser
+- LIAB1VOR_-3H46; ; 100 
+# DU II 16.2 Sickerwasser
+- LIAB1VOR_-3H48; ; 100 
+# DU I 16.3 Sickerwasser
+- LIAB1VOR_-3H49; ; 100 
+# DU I 17.1 Sickerwasser
+- LIAB1VOR_-3H51; ; 100 
+# DU II 17.1 Sickerwasser
+- LIAB1VOR_-3H52; ; 100 
+# DU I 17.2 Sickerwasser
+- LIAB1VOR_-3H53; ; 100 
+# DU II 17.2 Sickerwasser
+- LIAB1VOR_-3H54; ; 100 
+# DU I 17.4 Sickerwasser
+- LIAB1VOR_-3H55; ; 100 
+# DU I 18.1 Sickerwasser
+- LIAB1VOR_-3H56; ; 100 
+# DU I 18.2 Sickerwasser
+- LIAB1VOR_-3H58; ; 100 
+# DU I 18.3 Sickerwasser
+- LIAB1VOR_-3H59; ; 100 
+# DU I 18.4 Sickerwasser
+- LIAB1VOR_-3H60; ; 100 
+# DU I 19.1 Sickerwasser
+- LIAB1VOR_-3H61; ; 100 
+# DU I 19.2 Sickerwasser
+- LIAB1VOR_-3H63; ; 100 
+# DU I 19.3 Sickerwasser
+- LIAB1VOR_-3H65; ; 100 
+# DU I 19.4 Sickerwasser
+- LIAB1VOR_-3H66; ; 100 
+# DU I 21.2 Sickerwasser
+- LIAB1VOR_-3H67; ; 100 
+# KD 11.4 Sickerwasser
+- LIAB1VOR_-3H68; ; 100 
+# KD 12.1 Sickerwasser
+- LIAB1VOR_-3H69; ; 100 
+# KD 13.1 Sickerwasser
+- LIAB1VOR_-3H70; ; 100 
+# KD 13.3 Sickerwasser
+- LIAB1VOR_-3H71; ; 100 
+# KD 15.1 Sickerwasser
+- LIAB1VOR_-3H73; ; 100 
+# DU I 8.4 Sickerwasser
+- LIAB1VOR_-3H08; ; 100 
+# Öffnungsgrad Wasserkraftanlage
+- LIAB1WKA_-2OD1; ; 100 
+# Durchfluss Wasserkraftanlage
+- LIAB1WKA_-3F01; ; 100 
+# SWD2A Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H05; ; 100 
+# SWD2L Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H06; ; 100 
+# DU I 11.3 Sickerwasser
+- LIAB1VOR_-3H21; ; 100 
+# DU II 12.2 Sickerwasser
+- LIAB1VOR_-3H26; ; 100 
+# DU I 13.3 Sickerwasser
+- LIAB1VOR_-3H31; ; 100 
+# DU II 14.2 Sickerwasser
+- LIAB1VOR_-3H36; ; 100 
+# DU II 15.2 Sickerwasser
+- LIAB1VOR_-3H42; ; 100 
+# DU I 16.2 Sickerwasser
+- LIAB1VOR_-3H47; ; 100 
+# DU I 16.4 Sickerwasser
+- LIAB1VOR_-3H50; ; 100 
+# DU II 18.1 Sickerwasser
+- LIAB1VOR_-3H57; ; 100 
+# DU II 19.1 Sickerwasser
+- LIAB1VOR_-3H62; ; 100 
+# DU II 19.2 Sickerwasser
+- LIAB1VOR_-3H64; ; 100 
+# KD 13.4 Sickerwasser
+- LIAB1VOR_-3H72; ; 100 
+# FM mitte Sickerwasser
+- LIAB1VOR_-3H02; ; 100 
+# SWD2W Sohlenwasserdruck Handeingabe
+- LIAB1DS__-3H04; ; 100 
+# DU I 10.1 Sickerwasser
+- LIAB1VOR_-3H77; ; 100 
+# DU II 10.1 Sickerwasser
+- LIAB1VOR_-3H78; ; 100 
+# Stauhöhe Pegellatte
+- LISK1____-3H03; ; 100 
+# Schneedecke
+- LISK1____-3H04; ; 100 
+# Neuschnee
+- LISK1____-3H05; ; 100 
+# K1SW Kronenbohrung Handeingabe
+- LIAB1____-3H30; ; 100 
+# F1SA Fußbohrung Achse Handeingabe
+- LIAB1____-3H31; ; 100 
+# K2SW Kronenbohrung Handeingabe
+- LIAB1____-3H33; ; 100 
+# K1MW Kronenbohrung Handeingabe
+- LIAB1____-3H35; ; 100 
+# K4MW Kronenbohrung Handeingabe
+- LIAB1____-3H39; ; 100 
+# K5SW Kronenbohrung Handeingabe
+- LIAB1____-3H40; ; 100 
+# F4SA Fußbohrung Achse Handeingabe
+- LIAB1____-3H29; ; 100 
+# Öffnungsgrad Ringkolbenventil links DN 700/900
+- LIAB1RKVL-2OD1; ; 100 
+# Durchfluss Ringkolbenventil links DN 700/900
+- LIAB1RKVL-3F01; ; 100 
+# Öffnungsgrad Ringkolbenventil rechts DN 700/900
+- LIAB1RKVR-2OD1; ; 100 
+# Durchfluss Ringkolbenventil rechts DN 700/900
+- LIAB1RKVR-3F01; ; 100 
+# Öffnungsgrad Bypass DN 200
+- LIAB1BYPA-2OD1; ; 100 
+# Durchfluss Bypass DN 200
+- LIAB1BYPA-3F01; ; 100 
+# GW3 Grundwasser Handeingabe
+- LIAB1____-3H22; ; 100 
+# GW2 Grundwasser Handeingabe
+- LIAB1____-3H21; ; 100 
+# GW1 Grundwasser Handeingabe
+- LIAB1____-3H20; ; 100 
+#
+# --------
+# -- RO --
+# --------
+# DM Re Handmessung
+- ROAB1KO__-3H11; ; 100 
+# Stauhöhe Ablesung Pegellatte
+- ROSK1____-3H03; ; 100 
+# GW1 Grundwassermesstelle
+- ROAB1____-3H01; ; 100 
+# F1 Fußbohrung
+- ROAB1____-3H02; ; 100 
+# F2 Fußbohrung
+- ROAB1____-3H03; ; 100 
+# F2.1 Fußbohrung
+- ROAB1____-3H04; ; 100 
+# F3 Fußbohrung
+- ROAB1____-3H05; ; 100 
+# K1/F Kronenbohrung
+- ROAB1____-3H06; ; 100 
+# K1/M Kronenbohrung
+- ROAB1____-3H08; ; 100 
+# K3/M Kronenbohrung
+- ROAB1____-3H09; ; 100 
+# DM Li Handmessung
+- ROAB1KO__-3H10; ; 100 
+# DU Re Handmessung
+- ROAB1KO__-3H13; ; 100 
+# KD Kontrolle Dichtwand li
+- ROAB1KO__-3H14; ; 100 
+# KD Kontrolle Dichtwand re
+- ROAB1KO__-3H15; ; 100 
+# Wetter
+- ROAB1____-3H16; ; 100 
+# Gewitter
+- ROAB1____-3H17; ; 100 
+# Wassertemperatur Oberfläche
+- ROSK1____-3T01; ; 100 
+# Wassertemperatur 2m Tiefe
+- ROSK1____-3T02; ; 100 
+# Lufttemperatur Min
+- ROAB1____-3H18; ; 100 
+# Lufttemperatur Max
+- ROAB1____-3H19; ; 100 
+# K3/F Kronenbohrung
+- ROAB1____-3H07; ; 100 
+# Abgabe GA
+- ROAB1____-3H20; ; 100 
+# Abgabe über obere Entnahme
+- ROAB1____-3H21; ; 100 
+# DU Li Handmessung
+- ROAB1KO__-3H12; ; 100 
+#
+# --------
+# -- ES --
+# --------
+# Stauhöhe Ablesung Pegellatte
+- ESSK1____-3H03; ; 100 
+# DU Re
+- ESAB1KO__-3H07; ; 100 
+# Venturi Gerinne Handmessung H/SW
+- ESAB1____-3H17; ; 100 
+# Wetter
+- ES_______-3H01; ; 100 
+# FM1
+- ESAB1KO__-3H03; ; 100 
+# FM2
+- ESAB1KO__-3H04; ; 100 
+# DU Li
+- ESAB1KO__-3H05; ; 100 
+# DU Mi
+- ESAB1KO__-3H06; ; 100 
+# SW1 Sickerwasser
+- ESAB1KO__-3H01; ; 100 
+# SW2 Sickerwasser
+- ESAB1KO__-3H02; ; 100 
+# Gewitter
+- ES_______-3H02; ; 100 
+# GW1 Grundwassermessstelle
+- ESAB1____-3H01; ; 100 
+# K1S Kronenbohrung
+- ESAB1____-3H03; ; 100 
+# K2S Kronenbohrung
+- ESAB1____-3H04; ; 100 
+# K4S Kronenbohrung
+- ESAB1____-3H05; ; 100 
+# K5S Kronenbohrung
+- ESAB1____-3H06; ; 100 
+# K1M Kronenbohrung
+- ESAB1____-3H07; ; 100 
+# K2M Kronenbohrung
+- ESAB1____-3H08; ; 100 
+# K4M Kronenbohrung
+- ESAB1____-3H09; ; 100 
+# K5M Kronenbohrung
+- ESAB1____-3H10; ; 100 
+# SD1a Sohlenwasserdruck
+- ESAB1DS__-3H01; ; 100 
+# SD1b Sohlenwasserdruck
+- ESAB1DS__-3H02; ; 100 
+# SD1c Sohlenwasserdruck
+- ESAB1DS__-3H03; ; 100 
+# SD1d Sohlenwasserdruck
+- ESAB1DS__-3H04; ; 100 
+# SD2a Sohlenwasserdruck
+- ESAB1DS__-3H05; ; 100 
+# SD2b Sohlenwasserdruck
+- ESAB1DS__-3H06; ; 100 
+# SD2c Sohlenwasserdruck
+- ESAB1DS__-3H07; ; 100 
+# SD2d Sohlenwasserdruck
+- ESAB1DS__-3H08; ; 100 
+# SD3a Sohlenwasserdruck
+- ESAB1DS__-3H09; ; 100 
+# SD3b Sohlenwasserdruck
+- ESAB1DS__-3H10; ; 100 
+# SD3c Sohlenwasserdruck
+- ESAB1DS__-3H11; ; 100 
+# SD4b Sohlenwasserdruck
+- ESAB1DS__-3H14; ; 100 
+# F1 Fußbohrung
+- ESAB1____-3H11; ; 100 
+# F2.1 Fußbohrung
+- ESAB1____-3H12; ; 100 
+# F2.2 Fußbohrung
+- ESAB1____-3H13; ; 100 
+# F4.1 Fußbohrung
+- ESAB1____-3H14; ; 100 
+# F4.2 Fußbohrung
+- ESAB1____-3H15; ; 100 
+# F5 Fußbohrung
+- ESAB1____-3H16; ; 100 
+# Abgabe Grundablass rechts
+- ESAB1GA__-3H03; ; 100 
+# Abgabe Grundablass links
+- ESAB1GA__-3H02; ; 100 
+# Abgabe WKA
+- ESAB1WKA_-3H01; ; 100 
+# SD3d Sohlenwasserdruck
+- ESAB1DS__-3H12; ; 100 
+# SD4a Sohlenwasserdruck
+- ESAB1DS__-3H13; ; 100 
+# SD4c Sohlenwasserdruck
+- ESAB1DS__-3H15; ; 100 
+# SD4d Sohlenwasserdruck
+- ESAB1DS__-3H16; ; 100 
+# Überleitung Neye
+- ESAB1UNE_-3H01; ; 100 
+# Rohwasserentnahme
+- ESAB1RWE_-3H01; ; 100 
+# Öffnungsgrad Grundablass
+- ESAB1GA__-3H01; ; 100 
+# GW2 Grundwassermessstelle
+- ESAB1____-3H02; ; 100 
+#
+# --------
+# -- DH --
+# --------
+# Niederschlag Vorsperre Große Dhünn
+- DHAB2____-3H01; ; 100 
+# Schneedecke
+- DHAB1____-3H08; ; 100 
+# Neuschnee
+- DHAB1____-3H09; ; 100 
+# Stauhoehe Kl. Vorsperre
+- DHSK3____-3H01; ; 100
+# S-Hang Sickerwasser Hand
+- DHAB1AD__-3H01; ; 100 
+# S-Tal Sickerwasser Hand
+- DHAB1AD__-3H02; ; 100 
+# N-Tal Sickerwasser Hand
+- DHAB1AD__-3H03; ; 100 
+# N-Hang Sickerwasser Hand
+- DHAB1AD__-3H04; ; 100 
+# K13W Sohlenwasserdruck Hand
+- DHAB1DS__-3H20; ; 100 
+# K13A Sohlenwasserdruck Hand
+- DHAB1DS__-3H21; ; 100 
+# K13L Sohlenwasserdruck Hand
+- DHAB1DS__-3H22; ; 100 
+# K20W Sohlenwasserdruck Hand
+- DHAB1DS__-3H23; ; 100 
+# K20A Sohlenwasserdruck Hand
+- DHAB1DS__-3H24; ; 100 
+# K20L Sohlenwasserdruck Hand
+- DHAB1DS__-3H25; ; 100 
+# K22LO Sohlenwasserdruck Hand
+- DHAB1DS__-3H26; ; 100 
+# K23W Sohlenwasserdruck Hand
+- DHAB1DS__-3H27; ; 100 
+# K23A Sohlenwasserdruck Hand
+- DHAB1DS__-3H28; ; 100 
+# K23L Sohlenwasserdruck Hand
+- DHAB1DS__-3H29; ; 100 
+# K24LO Sohlenwasserdruck Hand
+- DHAB1DS__-3H30; ; 100 
+# K25LO Sohlenwasserdruck Hand
+- DHAB1DS__-3H31; ; 100 
+# K28W Sohlenwasserdruck Hand
+- DHAB1DS__-3H32; ; 100 
+# K28A Sohlenwasserdruck Hand
+- DHAB1DS__-3H33; ; 100 
+# K28L Sohlenwasserdruck Hand
+- DHAB1DS__-3H34; ; 100 
+# K29LO Sohlenwasserdruck Hand
+- DHAB1DS__-3H35; ; 100 
+# K35W Sohlenwasserdruck Hand
+- DHAB1DS__-3H36; ; 100 
+# K35A Sohlenwasserdruck Hand
+- DHAB1DS__-3H37; ; 100 
+# K35L Sohlenwasserdruck Hand
+- DHAB1DS__-3H38; ; 100 
+# GW1 Grundwasser Hand
+- DHAB1____-3H03; ; 100 
+# GW2 Grundwasser Hand
+- DHAB1____-3H04; ; 100 
+# GW3 Grundwasser Hand
+- DHAB1____-3H05; ; 100 
+# GW4 Grundwasser Hand
+- DHAB1____-3H06; ; 100 
+# S-H 1 Sickerwassereinzelmessung
+- DHAB1AD__-3H05; ; 100 
+# S-H 2 Sickerwassereinzelmessung
+- DHAB1AD__-3H06; ; 100 
+# S-H 3 Sickerwassereinzelmessung
+- DHAB1AD__-3H07; ; 100 
+# S-H 4 Sickerwassereinzelmessung
+- DHAB1AD__-3H08; ; 100 
+# S-H 5 Sickerwassereinzelmessung
+- DHAB1AD__-3H09; ; 100 
+# S-H 6 Sickerwassereinzelmessung
+- DHAB1AD__-3H10; ; 100 
+# S-H 7 Sickerwassereinzelmessung
+- DHAB1AD__-3H11; ; 100 
+# S-H 8 Sickerwassereinzelmessung
+- DHAB1AD__-3H12; ; 100 
+# S-T 9 Sickerwassereinzelmessung
+- DHAB1AD__-3H13; ; 100 
+# S-T 10 Sickerwassereinzelmessung
+- DHAB1AD__-3H14; ; 100 
+# N-T 11 Sickerwassereinzelmessung
+- DHAB1AD__-3H15; ; 100 
+# N-T 12 Sickerwassereinzelmessung
+- DHAB1AD__-3H16; ; 100 
+# N-T 13 Sickerwassereinzelmessung
+- DHAB1AD__-3H17; ; 100 
+# N-T 14 Sickerwassereinzelmessung
+- DHAB1AD__-3H18; ; 100 
+# N-H 15 Sickerwassereinzelmessung
+- DHAB1AD__-3H19; ; 100 
+# N-H 16 Sickerwassereinzelmessung
+- DHAB1AD__-3H20; ; 100 
+# N-H 17 Sickerwassereinzelmessung
+- DHAB1AD__-3H21; ; 100 
+# N-H 18 Sickerwassereinzelmessung
+- DHAB1AD__-3H22; ; 100 
+# N-H 19 Sickerwassereinzelmessung
+- DHAB1AD__-3H23; ; 100 
+# Stauhöhe Pegellatte Vorsperre Große Dhünn
+- DHSK2____-3H01; ; 100 
+# Stauhöhe Pegellatte Hauptsperre Große Dhünn
+- DHSK1____-3H03; ; 100 
+# Wetterlage
+- DH_______-3H01; ; 100 
+# Gewitter
+- DH_______-3H02; ; 100 
+# Niederschlag Hauptsperre GDT
+- DHAB1____-3H07; ; 100 
+#
+# --------
+# -- BB --
+# --------
+# Graben 2
+- BBAB1____-3H21; ; 100 
+# SWD1W Sohlenwasserdruck
+- BBAB1____-3H12; ; 100 
+# SWD2A Sohglenwasserdruck
+- BBAB1____-3H13; ; 100 
+# SWD2W Sohlenwasserdruck
+- BBAB1____-3H15; ; 100 
+# GW1 Grundwasser Hand
+- BBAB1____-3H01; ; 100 
+# SW3 Piezometer Hand
+- BBAB1____-3H08; ; 100 
+# SWD2L Sohlenwasserdruck
+- BBAB1____-3H14; ; 100 
+# SWD1L Sohlenwasserdruck
+- BBAB1____-3H11; ; 100 
+# SWD1A Sohlenwasserdruck
+- BBAB1____-3H10; ; 100 
+# Wetter
+- BBAB1____-3H16; ; 100 
+# Gewitter
+- BBAB1____-3H17; ; 100 
+# SW6 Piezometer Hand
+- BBAB1____-3H19; ; 100 
+# Brunnen 1
+- BBAB1____-3H22; ; 100 
+# Graben 1
+- BBAB1____-3H20; ; 100 
+# Wassertemperatur Oberfläche
+- BBSK1____-3T01; ; 100 
+# Wassertemperatur 2m Tiefe
+- BBSK1____-3T02; ; 100 
+# SW5 Piezometer Hand
+- BBAB1____-3H18; ; 100 
+# SW1 Piezometer Hand
+- BBAB1____-3H06; ; 100 
+# SW2 Piezometer Hand
+- BBAB1____-3H07; ; 100 
+# GW2 Grundwasser Hand
+- BBAB1____-3H02; ; 100 
+# GW5 Grundwasser Hand
+- BBAB1____-3H05; ; 100 
+# Lufttemperatur Min
+- BBAB1____-3H24; ; 100 
+# Lufttemperatur Max
+- BBAB1____-3H25; ; 100 
+# GW3 Grundwasser Hand
+- BBAB1____-3H03; ; 100 
+# GW4 Grundwasser Hand
+- BBAB1____-3H04; ; 100 
+# SW4 Piezometer Hand
+- BBAB1____-3H09; ; 100 
+# Brunnen 2
+- BBAB1____-3H23; ; 100 
+# Niederschlag Hand
+- BB_______-3H02; ; 100 
+# Stauhöhe Hand
+- BB_______-3H01; ; 100 
+# Ablauf Sickerschacht
+- BBAB1____-3H26; ; 100 
+# Ablauf Sickerprisma
+- BBAB1____-3H27; ; 100 
+#
+# --------
+# -- HT --
+# --------
+# Niederschlag
+- HTAB1____-3H02; ; 100
+# Luftdruck
+- HTAB1____-3P01; ; 100
+# Stauhöhe Hand
+- HTSK1____-3H01; ; 100
+# Wassertemperatur 2 Meter Tiefe
+- HTSK1____-3H02; ; 100
+# Lufttemperatur Mittel
+- HTSK1____-3T01; ; 100
+# Lufttemperatur Max
+- HTSK1____-3T02; ; 100
+# Lufttemperatur Min
+- HTSK1____-3T03; ; 100
+# Alignement AL 1 Mess.1
+- HTAB1____-3D01; ; 100
+# Alignement AL 1 Mess.2
+- HTAB1____-3D02; ; 100
+# Alignement AL 1 Mess.3
+- HTAB1____-3D03; ; 100
+# Alignement AL 2 Mess.1
+- HTAB1____-3D04; ; 100
+# Alignement AL 2 Mess.2
+- HTAB1____-3D05; ; 100
+# Alignement AL 2 Mess.3
+- HTAB1____-3D06; ; 100
+# Grundwasserpegel 1
+- HTAB1____-3H01; ; 100
+# Pendellot HT_li_x_hand
+- HTAB1____-3L05; ; 100
+# Pendellot HT_li_y_hand
+- HTAB1____-3L06; ; 100
+# Pendellot HT_re_x_hand
+- HTAB1____-3L07; ; 100
+# Pendellot HT_re_y_hand
+- HTAB1____-3L08; ; 100
+# Schwimmlot SL_li_x_hand
+- HTAB1____-3L13; ; 100
+# Schwimmlot SL_li_y_hand
+- HTAB1____-3L14; ; 100
+# Schwimmlot SL_re_x_hand
+- HTAB1____-3L15; ; 100
+# Schwimmlot SL_re_y_hand
+- HTAB1____-3L16; ; 100
+# SW1 Sohlenwasserdruck Hand
+- HTAB1DS__-3H01; ; 100
+# SW2 Sohlenwasserdruck Hand
+- HTAB1DS__-3H02; ; 100
+# SW3 Sohlenwasserdruck Hand
+- HTAB1DS__-3H03; ; 100
+# SW4 Sohlenwasserdruck Hand
+- HTAB1DS__-3H04; ; 100
+# SW5 Sohlenwasserdruck Hand
+- HTAB1DS__-3H05; ; 100
+# SW6 Sohlenwasserdruck Hand
+- HTAB1DS__-3H06; ; 100
+# SW7 Sohlenwasserdruck Hand
+- HTAB1DS__-3H07; ; 100
+# SW8 Sohlenwasserdruck Hand
+- HTAB1DS__-3H08; ; 100
+# SW9 Sohlenwasserdruck Hand
+- HTAB1DS__-3H09; ; 100
+# SW10 Sohlenwasserdruck Hand
+- HTAB1DS__-3H10; ; 100
+# SW11 Sohlenwasserdruck Hand
+- HTAB1DS__-3H11; ; 100
+# SW12 Sohlenwasserdruck Hand
+- HTAB1DS__-3H12; ; 100
+# SW13 Sohlenwasserdruck Hand
+- HTAB1DS__-3H13; ; 100
+# SW14 Sohlenwasserdruck Hand
+- HTAB1DS__-3H14; ; 100
+# SW15 Sohlenwasserdruck Hand
+- HTAB1DS__-3H15; ; 100
+# SW16 Sohlenwasserdruck Hand
+- HTAB1DS__-3H16; ; 100
+# SW17 Sohlenwasserdruck Hand
+- HTAB1DS__-3H17; ; 100
+# SW18 Sohlenwasserdruck Hand
+- HTAB1DS__-3H18; ; 100
+# SW19 Sohlenwasserdruck Hand
+- HTAB1DS__-3H19; ; 100
+# SW20 Sohlenwasserdruck Hand
+- HTAB1DS__-3H20; ; 100
+# SW21 Sohlenwasserdruck Hand
+- HTAB1DS__-3H21; ; 100
+# SW22 Sohlenwasserdruck Hand
+- HTAB1DS__-3H22; ; 100
+# SW23 Sohlenwasserdruck Hand
+- HTAB1DS__-3H23; ; 100
+# SW24 Sohlenwasserdruck Hand
+- HTAB1DS__-3H24; ; 100
+# SW25 Sohlenwasserdruck Hand
+- HTAB1DS__-3H25; ; 100
+# SW26 Sohlenwasserdruck Hand
+- HTAB1DS__-3H26; ; 100
+# BS 3 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H27; ; 100
+# BS 4 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H28; ; 100
+# BS 5 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H29; ; 100
+# BS 6 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H30; ; 100
+# BS 7 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H31; ; 100
+# BS 8 Drainage Geomembran/Herdmauer
+- HTAB1DS__-3H32; ; 100
+# DG S1 Sammeldrainage Geomembran
+- HTAB1DS__-3H33; ; 100
+# DG S2 Sammeldrainage Geomembran
+- HTAB1DS__-3H34; ; 100
+# DG 1 Drainage Geomembran
+- HTAB1DS__-3H35; ; 100
+# DG 2 Drainage Geomembran
+- HTAB1DS__-3H36; ; 100
+# DG 3 Drainage Geomembran
+- HTAB1DS__-3H37; ; 100
+# DG 4 Drainage Geomembran
+- HTAB1DS__-3H38; ; 100
+# DG 5 Drainage Geomembran
+- HTAB1DS__-3H39; ; 100
+# DG 6 Drainage Geomembran
+- HTAB1DS__-3H40; ; 100
+# DG 7 Drainage Geomembran
+- HTAB1DS__-3H41; ; 100
+# DG 8 Drainage Geomembran
+- HTAB1DS__-3H42; ; 100
+# DG 9 Drainage Geomembran
+- HTAB1DS__-3H43; ; 100
+# DG 10 Drainage Geomembran
+- HTAB1DS__-3H44; ; 100
+# DG 11 Drainage Geomembran
+- HTAB1DS__-3H45; ; 100
+# DG 12 Drainage Geomembran
+- HTAB1DS__-3H46; ; 100
+# DG 13 Drainage Geomembran
+- HTAB1DS__-3H47; ; 100
+# DG 14 Drainage Geomembran
+- HTAB1DS__-3H48; ; 100
+# DG 15 Drainage Geomembran
+- HTAB1DS__-3H49; ; 100
+# DG 16 Drainage Geomembran
+- HTAB1DS__-3H50; ; 100
+# DG 17 Drainage Geomembran
+- HTAB1DS__-3H51; ; 100
+# DG 18 Drainage Geomembran
+- HTAB1DS__-3H52; ; 100
+# DG 19 Drainage Geomembran
+- HTAB1DS__-3H53; ; 100
+# DG 20 Drainage Geomembran
+- HTAB1DS__-3H54; ; 100
+# DG 21 Drainage Geomembran
+- HTAB1DS__-3H55; ; 100
+# DG 22 Drainage Geomembran
+- HTAB1DS__-3H56; ; 100
+# DG 23 Drainage Geomembran
+- HTAB1DS__-3H57; ; 100
+# DG 24 Drainage Geomembran
+- HTAB1DS__-3H58; ; 100
+# DG 25 Drainage Geomembran
+- HTAB1DS__-3H59; ; 100
+# DG 26 Drainage Geomembran
+- HTAB1DS__-3H60; ; 100
+# DG 27 Drainage Geomembran
+- HTAB1DS__-3H61; ; 100
+# DG 28 Drainage Geomembran
+- HTAB1DS__-3H62; ; 100
+# DG 29 Drainage Geomembran
+- HTAB1DS__-3H63; ; 100
+# DG 30 Drainage Geomembran
+- HTAB1DS__-3H64; ; 100
+# TH 1 Gesamtdrainagewasser Hand
+- HTAB1KO__-3H01; ; 100
+# TH 2 Gesamtdrainagewasser Hand
+- HTAB1KO__-3H02; ; 100
+# F1 Fächerbohrung Drainage
+- HTAB1KO__-3H03; ; 100
+# F2 Fächerbohrung Drainage
+- HTAB1KO__-3H04; ; 100
+# F3 Fächerbohrung Drainage
+- HTAB1KO__-3H05; ; 100
+# F4 Fächerbohrung Drainage
+- HTAB1KO__-3H06; ; 100
+# F5 Fächerbohrung Drainage
+- HTAB1KO__-3H07; ; 100
+# F6 Fächerbohrung Drainage
+- HTAB1KO__-3H08; ; 100
+# DB 1 Drainage Untergrund
+- HTAB1KO__-3H09; ; 100
+# DB 2 Drainage Untergrund
+- HTAB1KO__-3H10; ; 100
+# DB 3 Drainage Untergrund
+- HTAB1KO__-3H11; ; 100
+# DB 4 Drainage Untergrund
+- HTAB1KO__-3H12; ; 100
+# DB 5 Drainage Untergrund
+- HTAB1KO__-3H13; ; 100
+# DB 6 Drainage Untergrund
+- HTAB1KO__-3H14; ; 100
+# DB 7 Drainage Untergrund
+- HTAB1KO__-3H15; ; 100
+# DB 8 Drainage Untergrund
+- HTAB1KO__-3H16; ; 100
+# DB 9 Drainage Untergrund
+- HTAB1KO__-3H17; ; 100
+# DB 10 Drainage Untergrund
+- HTAB1KO__-3H18; ; 100
+# DB 11 Drainage Untergrund
+- HTAB1KO__-3H19; ; 100
+# DB 12 Drainage Untergrund
+- HTAB1KO__-3H20; ; 100
+# DB 13 Drainage Untergrund
+- HTAB1KO__-3H21; ; 100
+# DB 14 Drainage Untergrund
+- HTAB1KO__-3H22; ; 100
+# DB 15 Drainage Untergrund
+- HTAB1KO__-3H23; ; 100
+# DB 16 Drainage Untergrund
+- HTAB1KO__-3H24; ; 100
+# DB 17 Drainage Untergrund
+- HTAB1KO__-3H25; ; 100
+# DB 18 Drainage Untergrund
+- HTAB1KO__-3H26; ; 100
+# DB 19 Drainage Untergrund
+- HTAB1KO__-3H27; ; 100
+# DB 20 Drainage Untergrund
+- HTAB1KO__-3H28; ; 100
+# DB 21 Drainage Untergrund
+- HTAB1KO__-3H29; ; 100
+# DB 22 Drainage Untergrund
+- HTAB1KO__-3H30; ; 100
+# DB 23 Drainage Untergrund
+- HTAB1KO__-3H31; ; 100
+# DB 23a Drainage Untergrund
+- HTAB1KO__-3H32; ; 100
+# DB 24 Drainage Untergrund
+- HTAB1KO__-3H33; ; 100
+# DB 25 Drainage Untergrund
+- HTAB1KO__-3H34; ; 100
+# DB 26 Drainage Untergrund
+- HTAB1KO__-3H35; ; 100
+# DB 27 Drainage Untergrund
+- HTAB1KO__-3H36; ; 100
+# DB 28 Drainage Untergrund
+- HTAB1KO__-3H37; ; 100
+# DB 29 Drainage Untergrund
+- HTAB1KO__-3H38; ; 100
+# DB 30 Drainage Untergrund
+- HTAB1KO__-3H39; ; 100
+# DB 31 Drainage Untergrund
+- HTAB1KO__-3H40; ; 100
+# DB 32 Drainage Untergrund
+- HTAB1KO__-3H41; ; 100
+# DB 33 Drainage Untergrund
+- HTAB1KO__-3H42; ; 100
+# DB 34 Drainage Untergrund
+- HTAB1KO__-3H43; ; 100
+# DB 35 Drainage Untergrund
+- HTAB1KO__-3H44; ; 100
+# DB 36 Drainage Untergrund
+- HTAB1KO__-3H45; ; 100
+# DB 36a Drainage Untergrund
+- HTAB1KO__-3H46; ; 100
+# DB 37 Drainage Untergrund
+- HTAB1KO__-3H47; ; 100
+# DB 38 Drainage Untergrund
+- HTAB1KO__-3H48; ; 100
+# DB 39 Drainage Untergrund
+- HTAB1KO__-3H49; ; 100
+# DB 40 Drainage Untergrund
+- HTAB1KO__-3H50; ; 100
+# DB 41 Drainage Untergrund
+- HTAB1KO__-3H51; ; 100
+# DB 42 Drainage Untergrund
+- HTAB1KO__-3H52; ; 100
+# DB 43 Drainage Untergrund
+- HTAB1KO__-3H53; ; 100
+# DB 44 Drainage Untergrund
+- HTAB1KO__-3H54; ; 100
+# DB 45 Drainage Untergrund
+- HTAB1KO__-3H55; ; 100
+# DB 46 Drainage Untergrund
+- HTAB1KO__-3H56; ; 100
+# DB 47 Drainage Untergrund
+- HTAB1KO__-3H57; ; 100
+# DB 48 Drainage Untergrund
+- HTAB1KO__-3H58; ; 100
+# DB 49 Drainage Untergrund
+- HTAB1KO__-3H59; ; 100
+# DB 50 Drainage Untergrund
+- HTAB1KO__-3H60; ; 100
+# DB 51 Drainage Untergrund
+- HTAB1KO__-3H61; ; 100
+# DB 52 Drainage Untergrund
+- HTAB1KO__-3H62; ; 100
+# DB 53 Drainage Untergrund
+- HTAB1KO__-3H63; ; 100
+ 
+
+
+ 
